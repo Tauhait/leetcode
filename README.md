@@ -1,4 +1,4 @@
-###LeetCode Solutions https://leetcode.com/problemset/algorithms/
+### LeetCode Solutions https://leetcode.com/problemset/algorithms/
 
 |Problem | C/C++ | Java | Python3 |
 |:----------|:-------------:|:------:|:------:|
