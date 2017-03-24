@@ -30,8 +30,8 @@ public class Solution {
 			Arrays.fill(ans[i], Integer.MAX_VALUE);
 		}
         
-        // put all 0 at frist, then 1s, and so on
-        Queue<Pair> q = new LinkedList<>();
+        	// put all 0 at frist, then 1s, and so on
+        	Queue<Pair> q = new LinkedList<>();
 		for (int i = 0; i < m; ++i) {
 			for (int j = 0; j < n; ++j) {
 				if (matrix.get(i).get(j) == 0) {
