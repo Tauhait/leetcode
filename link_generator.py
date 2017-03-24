@@ -27,7 +27,7 @@ if __name__ == '__main__':
     problems.sort()
     md_file = 'Readme.md'
     f = open(md_file, 'w')
-    f.write('###LeetCode Solutions https://leetcode.com/problemset/algorithms/\n')
+    f.write('### LeetCode Solutions https://leetcode.com/problemset/algorithms/\n\n')
     f.write('|Problem | C/C++ | Java | Python3 |\n')
     f.write('|:----------|:-------------:|:------:|:------:|\n')
     for problem in problems:
