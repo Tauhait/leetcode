@@ -74,6 +74,7 @@
 |Course Schedule II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Course\%20Schedule\%20II.cpp) | []() | []()|
 |Decode Ways  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Decode\%20Ways.cpp) | []() | []()|
 |Delete Node in a Linked List  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Delete\%20Node\%20in\%20a\%20Linked\%20List.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Delete\%20Node\%20in\%20a\%20Linked\%20List.java) | []()|
+|Delete Operation for Two Strings  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Delete\%20Operation\%20for\%20Two\%20Strings.java) | []()|
 |Design Phone Directory  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Design\%20Phone\%20Directory.java) | []()|
 |Design Tic-Tac-Toe  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Design\%20Tic-Tac-Toe.java) | []()|
 |Distinct Subsequences  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Distinct\%20Subsequences.cpp) | []() | []()|
@@ -82,6 +83,7 @@
 |Edit Distance  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Edit\%20Distance.cpp) | []() | []()|
 |Encode and Decode Strings  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Encode\%20and\%20Decode\%20Strings.cpp) | []() | []()|
 |Encode and Decode TinyURL  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Encode\%20and\%20Decode\%20TinyURL.java) | []()|
+|Erect the Fence  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Erect\%20the\%20Fence.java) | []()|
 |Evaluate Reverse Polish Notation  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Evaluate\%20Reverse\%20Polish\%20Notation.cpp) | []() | []()|
 |Excel Sheet Column Number  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Excel\%20Sheet\%20Column\%20Number.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Excel\%20Sheet\%20Column\%20Number.java) | []()|
 |Excel Sheet Column Title  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Excel\%20Sheet\%20Column\%20Title.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Excel\%20Sheet\%20Column\%20Title.java) | []()|
@@ -132,6 +134,7 @@
 |Isomorphic Strings  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Isomorphic\%20Strings.cpp) | []() | []()|
 |Jump Game  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Jump\%20Game.cpp) | []() | []()|
 |Jump Game II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Jump\%20Game\%20II.cpp) | []() | []()|
+|Kill Process  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Kill\%20Process.java) | []()|
 |Kth Largest Element in an Array  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Kth\%20Largest\%20Element\%20in\%20an\%20Array.cpp) | []() | []()|
 |Kth Smallest Element in a BST  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Kth\%20Smallest\%20Element\%20in\%20a\%20BST.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Kth\%20Smallest\%20Element\%20in\%20a\%20BST.java) | []()|
 |Kth Smallest Element in a Sorted Matrix  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Kth\%20Smallest\%20Element\%20in\%20a\%20Sorted\%20Matrix.java) | []()|
@@ -272,6 +275,7 @@
 |Search in Rotated Sorted Array II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Search\%20in\%20Rotated\%20Sorted\%20Array\%20II.cpp) | []() | []()|
 |Serialize and Deserialize Binary Tree  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Serialize\%20and\%20Deserialize\%20Binary\%20Tree.cpp) | []() | []()|
 |Set Matrix Zeroes  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Set\%20Matrix\%20Zeroes.cpp) | []() | []()|
+|Shortest Unsorted Continuous Subarray  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Shortest\%20Unsorted\%20Continuous\%20Subarray.java) | []()|
 |Shortest Word Distance  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Shortest\%20Word\%20Distance.cpp) | []() | []()|
 |Shortest Word Distance II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Shortest\%20Word\%20Distance\%20II.cpp) | []() | []()|
 |Shortest Word Distance III  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Shortest\%20Word\%20Distance\%20III.cpp) | []() | []()|
