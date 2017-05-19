@@ -138,7 +138,8 @@
 |Kth Largest Element in an Array  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Kth\%20Largest\%20Element\%20in\%20an\%20Array.cpp) | []() | []()|
 |Kth Smallest Element in a BST  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Kth\%20Smallest\%20Element\%20in\%20a\%20BST.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Kth\%20Smallest\%20Element\%20in\%20a\%20BST.java) | []()|
 |Kth Smallest Element in a Sorted Matrix  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Kth\%20Smallest\%20Element\%20in\%20a\%20Sorted\%20Matrix.java) | []()|
-|LRU Cache  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/LRU\%20Cache.cpp) | []() | []()|
+|LFU Cache  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/LFU\%20Cache.java) | []()|
+|LRU Cache  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/LRU\%20Cache.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/LRU\%20Cache.java) | []()|
 |Largest BST Subtree  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Largest\%20BST\%20Subtree.cpp) | []() | []()|
 |Largest Number  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Largest\%20Number.cpp) | []() | []()|
 |Largest Rectangle in Histogram  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Largest\%20Rectangle\%20in\%20Histogram.cpp) | []() | []()|
