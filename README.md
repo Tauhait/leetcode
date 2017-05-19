@@ -222,6 +222,7 @@
 |Path Sum II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Path\%20Sum\%20II.cpp) | []() | []()|
 |Peeking Iterator  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Peeking\%20Iterator.cpp) | []() | []()|
 |Perfect Number  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Perfect\%20Number.java) | []()|
+|Perfect Rectangle  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Perfect\%20Rectangle.java) | []()|
 |Perfect Squares  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Perfect\%20Squares.cpp) | []() | []()|
 |Permutation Sequence  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Permutation\%20Sequence.cpp) | []() | []()|
 |Permutation in String  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Permutation\%20in\%20String.java) | []()|
@@ -339,4 +340,5 @@
 |Word Pattern II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Word\%20Pattern\%20II.cpp) | []() | []()|
 |Word Search  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Word\%20Search.cpp) | []() | []()|
 |Word Search II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Word\%20Search\%20II.cpp) | []() | []()|
+|Word Squares  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Word\%20Squares.java) | []()|
 |Zigzag Iterator  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Zigzag\%20Iterator.cpp) | []() | []()|
