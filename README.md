@@ -102,6 +102,7 @@
 |Fizz Buzz  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Fizz\%20Buzz.java) | []()|
 |Flatten 2D Vector  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Flatten\%202D\%20Vector.cpp) | []() | []()|
 |Flatten Binary Tree to Linked List  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Flatten\%20Binary\%20Tree\%20to\%20Linked\%20List.cpp) | []() | []()|
+|Flatten Nested List Iterator  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Flatten\%20Nested\%20List\%20Iterator.java) | []()|
 |Flip Game  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Flip\%20Game.cpp) | []() | []()|
 |Flip Game II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Flip\%20Game\%20II.cpp) | []() | []()|
 |Fraction to Recurring Decimal  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Fraction\%20to\%20Recurring\%20Decimal.cpp) | []() | []()|
@@ -111,8 +112,8 @@
 |Graph Valid Tree  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Graph\%20Valid\%20Tree.cpp) | []() | []()|
 |Group Anagrams  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Group\%20Anagrams.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Group\%20Anagrams.java) | []()|
 |Group Shifted Strings  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Group\%20Shifted\%20Strings.cpp) | []() | []()|
-|H-Index  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/H-Index.cpp) | []() | []()|
-|H-Index II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/H-Index\%20II.cpp) | []() | []()|
+|H-Index  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/H-Index.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/H-Index.java) | []()|
+|H-Index II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/H-Index\%20II.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/H-Index\%20II.java) | []()|
 |Happy Number  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Happy\%20Number.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Happy\%20Number.java) | []()|
 |House Robber  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/House\%20Robber.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/House\%20Robber.java) | []()|
 |House Robber II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/House\%20Robber\%20II.cpp) | []() | []()|
@@ -203,11 +204,12 @@
 |Number of Islands II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Number\%20of\%20Islands\%20II.cpp) | []() | []()|
 |Odd Even Linked List  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Odd\%20Even\%20Linked\%20List.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Odd\%20Even\%20Linked\%20List.java) | []()|
 |One Edit Distance  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/One\%20Edit\%20Distance.cpp) | []() | []()|
+|Optimal Account Balancing  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Optimal\%20Account\%20Balancing.java) | []()|
 |Out of Boundary Paths  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Out\%20of\%20Boundary\%20Paths.java) | []()|
 |Output Contest Matches  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Output\%20Contest\%20Matches.java) | []()|
-|Paint Fence  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Paint\%20Fence.cpp) | []() | []()|
-|Paint House  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Paint\%20House.cpp) | []() | []()|
-|Paint House II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Paint\%20House\%20II.cpp) | []() | []()|
+|Paint Fence  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Paint\%20Fence.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Paint\%20Fence.java) | []()|
+|Paint House  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Paint\%20House.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Paint\%20House.java) | []()|
+|Paint House II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Paint\%20House\%20II.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Paint\%20House\%20II.java) | []()|
 |Palindrome Linked List  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Palindrome\%20Linked\%20List.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Palindrome\%20Linked\%20List.java) | []()|
 |Palindrome Number  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Palindrome\%20Number.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Palindrome\%20Number.java) | []()|
 |Palindrome Pairs  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Palindrome\%20Pairs.cpp) | []() | []()|
