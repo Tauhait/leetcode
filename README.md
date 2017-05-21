@@ -75,6 +75,7 @@
 |Decode Ways  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Decode\%20Ways.cpp) | []() | []()|
 |Delete Node in a Linked List  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Delete\%20Node\%20in\%20a\%20Linked\%20List.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Delete\%20Node\%20in\%20a\%20Linked\%20List.java) | []()|
 |Delete Operation for Two Strings  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Delete\%20Operation\%20for\%20Two\%20Strings.java) | []()|
+|Design In-Memory File System  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Design\%20In-Memory\%20File\%20System.java) | []()|
 |Design Phone Directory  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Design\%20Phone\%20Directory.java) | []()|
 |Design Tic-Tac-Toe  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Design\%20Tic-Tac-Toe.java) | []()|
 |Distinct Subsequences  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Distinct\%20Subsequences.cpp) | []() | []()|
@@ -105,6 +106,7 @@
 |Flatten Nested List Iterator  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Flatten\%20Nested\%20List\%20Iterator.java) | []()|
 |Flip Game  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Flip\%20Game.cpp) | []() | []()|
 |Flip Game II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Flip\%20Game\%20II.cpp) | []() | []()|
+|Fraction Addition and Subtraction  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Fraction\%20Addition\%20and\%20Subtraction.java) | []()|
 |Fraction to Recurring Decimal  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Fraction\%20to\%20Recurring\%20Decimal.cpp) | []() | []()|
 |Game of Life  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Game\%20of\%20Life.cpp) | []() | []()|
 |Gas Station  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Gas\%20Station.cpp) | []() | []()|
@@ -150,6 +152,7 @@
 |Logger Rate Limiter  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Logger\%20Rate\%20Limiter.java) | []()|
 |Longest Common Prefix  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Longest\%20Common\%20Prefix.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Longest\%20Common\%20Prefix.java) | []()|
 |Longest Consecutive Sequence  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Longest\%20Consecutive\%20Sequence.cpp) | []() | []()|
+|Longest Harmonious Subsequence  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Longest\%20Harmonious\%20Subsequence.java) | []()|
 |Longest Increasing Path in a Matrix  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Longest\%20Increasing\%20Path\%20in\%20a\%20Matrix.cpp) | []() | []()|
 |Longest Increasing Subsequence  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Longest\%20Increasing\%20Subsequence.cpp) | []() | []()|
 |Longest Palindromic Subsequence  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Longest\%20Palindromic\%20Subsequence.java) | []()|
@@ -327,6 +330,7 @@
 |Valid Anagram  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Valid\%20Anagram.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Valid\%20Anagram.java) | []()|
 |Valid Palindrome  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Valid\%20Palindrome.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Valid\%20Palindrome.java) | []()|
 |Valid Parentheses  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Valid\%20Parentheses.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Valid\%20Parentheses.java) | []()|
+|Valid Square  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Valid\%20Square.java) | []()|
 |Valid Sudoku  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Valid\%20Sudoku.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Valid\%20Sudoku.java) | []()|
 |Validate Binary Search Tree  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Validate\%20Binary\%20Search\%20Tree.cpp) | []() | []()|
 |Verify Preorder Serialization of a Binary Tree  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Verify\%20Preorder\%20Serialization\%20of\%20a\%20Binary\%20Tree.cpp) | []() | []()|
