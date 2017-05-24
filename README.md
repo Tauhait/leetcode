@@ -21,7 +21,7 @@
 |Best Meeting Point  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Best\%20Meeting\%20Point.cpp) | []() | []()|
 |Best Time to Buy and Sell Stock  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Best\%20Time\%20to\%20Buy\%20and\%20Sell\%20Stock.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Best\%20Time\%20to\%20Buy\%20and\%20Sell\%20Stock.java) | []()|
 |Best Time to Buy and Sell Stock II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Best\%20Time\%20to\%20Buy\%20and\%20Sell\%20Stock\%20II.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Best\%20Time\%20to\%20Buy\%20and\%20Sell\%20Stock\%20II.java) | []()|
-|Binary Search Tree Iterator  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Binary\%20Search\%20Tree\%20Iterator.cpp) | []() | []()|
+|Binary Search Tree Iterator  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Binary\%20Search\%20Tree\%20Iterator.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Binary\%20Search\%20Tree\%20Iterator.java) | []()|
 |Binary Tree Inorder Traversal  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Binary\%20Tree\%20Inorder\%20Traversal.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Binary\%20Tree\%20Inorder\%20Traversal.java) | []()|
 |Binary Tree Level Order Traversal  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Binary\%20Tree\%20Level\%20Order\%20Traversal.cpp) | []() | []()|
 |Binary Tree Level Order Traversal II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Binary\%20Tree\%20Level\%20Order\%20Traversal\%20II.cpp) | []() | []()|
@@ -82,7 +82,7 @@
 |Distribute Candies  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Distribute\%20Candies.java) | []()|
 |Divide Two Integers  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Divide\%20Two\%20Integers.cpp) | []() | []()|
 |Edit Distance  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Edit\%20Distance.cpp) | []() | []()|
-|Encode and Decode Strings  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Encode\%20and\%20Decode\%20Strings.cpp) | []() | []()|
+|Encode and Decode Strings  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Encode\%20and\%20Decode\%20Strings.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Encode\%20and\%20Decode\%20Strings.java) | []()|
 |Encode and Decode TinyURL  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Encode\%20and\%20Decode\%20TinyURL.java) | []()|
 |Erect the Fence  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Erect\%20the\%20Fence.java) | []()|
 |Evaluate Reverse Polish Notation  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Evaluate\%20Reverse\%20Polish\%20Notation.cpp) | []() | []()|
@@ -101,7 +101,7 @@
 |First Missing Positive  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/First\%20Missing\%20Positive.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/First\%20Missing\%20Positive.java) | []()|
 |First Unique Character in a String  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/First\%20Unique\%20Character\%20in\%20a\%20String.java) | []()|
 |Fizz Buzz  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Fizz\%20Buzz.java) | []()|
-|Flatten 2D Vector  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Flatten\%202D\%20Vector.cpp) | []() | []()|
+|Flatten 2D Vector  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Flatten\%202D\%20Vector.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Flatten\%202D\%20Vector.java) | []()|
 |Flatten Binary Tree to Linked List  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Flatten\%20Binary\%20Tree\%20to\%20Linked\%20List.cpp) | []() | []()|
 |Flatten Nested List Iterator  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Flatten\%20Nested\%20List\%20Iterator.java) | []()|
 |Flip Game  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Flip\%20Game.cpp) | []() | []()|
@@ -225,7 +225,7 @@
 |Pascal's Triangle II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Pascal's\%20Triangle\%20II.cpp) | []() | []()|
 |Path Sum  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Path\%20Sum.cpp) | []() | []()|
 |Path Sum II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Path\%20Sum\%20II.cpp) | []() | []()|
-|Peeking Iterator  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Peeking\%20Iterator.cpp) | []() | []()|
+|Peeking Iterator  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Peeking\%20Iterator.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Peeking\%20Iterator.java) | []()|
 |Perfect Number  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Perfect\%20Number.java) | []()|
 |Perfect Rectangle  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Perfect\%20Rectangle.java) | []()|
 |Perfect Squares  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Perfect\%20Squares.cpp) | []() | []()|
@@ -281,7 +281,8 @@
 |Search for a Range  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Search\%20for\%20a\%20Range.cpp) | []() | []()|
 |Search in Rotated Sorted Array  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Search\%20in\%20Rotated\%20Sorted\%20Array.cpp) | []() | []()|
 |Search in Rotated Sorted Array II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Search\%20in\%20Rotated\%20Sorted\%20Array\%20II.cpp) | []() | []()|
-|Serialize and Deserialize Binary Tree  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Serialize\%20and\%20Deserialize\%20Binary\%20Tree.cpp) | []() | []()|
+|Serialize and Deserialize BST  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Serialize\%20and\%20Deserialize\%20BST.java) | []()|
+|Serialize and Deserialize Binary Tree  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Serialize\%20and\%20Deserialize\%20Binary\%20Tree.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Serialize\%20and\%20Deserialize\%20Binary\%20Tree.java) | []()|
 |Set Matrix Zeroes  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Set\%20Matrix\%20Zeroes.cpp) | []() | []()|
 |Shortest Unsorted Continuous Subarray  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Shortest\%20Unsorted\%20Continuous\%20Subarray.java) | []()|
 |Shortest Word Distance  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Shortest\%20Word\%20Distance.cpp) | []() | []()|
