@@ -15,6 +15,7 @@
 |Add and Search Word - Data structure design  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Add\%20and\%20Search\%20Word\%20-\%20Data\%20structure\%20design.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Add\%20and\%20Search\%20Word\%20-\%20Data\%20structure\%20design.java) | []()|
 |Alien Dictionary  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Alien\%20Dictionary.cpp) | []() | []()|
 |Android Unlock Patterns  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Android\%20Unlock\%20Patterns.java) | []()|
+|Array Nesting  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Array\%20Nesting.java) | []()|
 |Array Partition I  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Array\%20Partition\%20I.java) | []()|
 |Balanced Binary Tree  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Balanced\%20Binary\%20Tree.cpp) | []() | []()|
 |Base 7  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Base\%207.java) | []()|
@@ -191,6 +192,7 @@
 |Minesweeper  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Minesweeper.java) | []()|
 |Minimum Depth of Binary Tree  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Minimum\%20Depth\%20of\%20Binary\%20Tree.cpp) | []() | []()|
 |Minimum Genetic Mutation  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Minimum\%20Genetic\%20Mutation.cpp) | []() | []()|
+|Minimum Index Sum of Two Lists  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Minimum\%20Index\%20Sum\%20of\%20Two\%20Lists.java) | []()|
 |Minimum Path Sum  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Minimum\%20Path\%20Sum.cpp) | []() | []()|
 |Minimum Size Subarray Sum  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Minimum\%20Size\%20Subarray\%20Sum.cpp) | []() | []()|
 |Minimum Time Difference  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Minimum\%20Time\%20Difference.java) | []()|
@@ -206,6 +208,7 @@
 |Nested List Weight Sum II  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Nested\%20List\%20Weight\%20Sum\%20II.java) | []()|
 |Next Permutation  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Next\%20Permutation.cpp) | []() | []()|
 |Nim Game  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Nim\%20Game.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Nim\%20Game.java) | []()|
+|Non-negative Integers without Consecutive Ones  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Non-negative\%20Integers\%20without\%20Consecutive\%20Ones.java) | []()|
 |Number of 1 Bits  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Number\%20of\%201\%20Bits.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Number\%20of\%201\%20Bits.java) | []()|
 |Number of Connected Components in an Undirected Graph  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Number\%20of\%20Connected\%20Components\%20in\%20an\%20Undirected\%20Graph.cpp) | []() | []()|
 |Number of Islands  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Number\%20of\%20Islands.cpp) | []() | []()|
@@ -246,6 +249,7 @@
 |Power of Three  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Power\%20of\%20Three.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Power\%20of\%20Three.java) | []()|
 |Power of Two  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Power\%20of\%20Two.cpp) | []() | []()|
 |Product of Array Except Self  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Product\%20of\%20Array\%20Except\%20Self.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Product\%20of\%20Array\%20Except\%20Self.java) | []()|
+|Range Addition II  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Range\%20Addition\%20II.java) | []()|
 |Range Sum Query - Immutable  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Range\%20Sum\%20Query\%20-\%20Immutable.cpp) | []() | []()|
 |Range Sum Query - Mutable  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Range\%20Sum\%20Query\%20-\%20Mutable.cpp) | []() | []()|
 |Range Sum Query 2D - Immutable  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Range\%20Sum\%20Query\%202D\%20-\%20Immutable.cpp) | []() | []()|
