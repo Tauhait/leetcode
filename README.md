@@ -13,7 +13,7 @@
 |Add Two Numbers  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Add\%20Two\%20Numbers.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Add\%20Two\%20Numbers.java) | [python](https://github.com/acgtun/leetcode/tree/master/algorithms/python/Add\%20Two\%20Numbers.py)|
 |Add Two Numbers II  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Add\%20Two\%20Numbers\%20II.java) | []()|
 |Add and Search Word - Data structure design  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Add\%20and\%20Search\%20Word\%20-\%20Data\%20structure\%20design.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Add\%20and\%20Search\%20Word\%20-\%20Data\%20structure\%20design.java) | []()|
-|Alien Dictionary  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Alien\%20Dictionary.cpp) | []() | []()|
+|Alien Dictionary  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Alien\%20Dictionary.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Alien\%20Dictionary.java) | []()|
 |Android Unlock Patterns  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Android\%20Unlock\%20Patterns.java) | []()|
 |Array Partition I  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Array\%20Partition\%20I.java) | []()|
 |Balanced Binary Tree  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Balanced\%20Binary\%20Tree.cpp) | []() | []()|
@@ -100,6 +100,7 @@
 |Find Minimum in Rotated Sorted Array II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Find\%20Minimum\%20in\%20Rotated\%20Sorted\%20Array\%20II.cpp) | []() | []()|
 |Find Peak Element  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Find\%20Peak\%20Element.cpp) | []() | []()|
 |Find the Celebrity  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Find\%20the\%20Celebrity.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Find\%20the\%20Celebrity.java) | []()|
+|Find the Difference  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Find\%20the\%20Difference.java) | []()|
 |Find the Duplicate Number  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Find\%20the\%20Duplicate\%20Number.cpp) | []() | []()|
 |First Bad Version  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/First\%20Bad\%20Version.cpp) | []() | []()|
 |First Bad Version.c | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/First\%20Bad\%20Version.c) | []() | []()|
