@@ -97,6 +97,7 @@
 |Excel Sheet Column Title  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Excel\%20Sheet\%20Column\%20Title.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Excel\%20Sheet\%20Column\%20Title.java) | []()|
 |Factor Combinations  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Factor\%20Combinations.cpp) | []() | []()|
 |Factorial Trailing Zeroes  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Factorial\%20Trailing\%20Zeroes.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Factorial\%20Trailing\%20Zeroes.java) | []()|
+|Find K Pairs with Smallest Sums  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Find\%20K\%20Pairs\%20with\%20Smallest\%20Sums.java) | []()|
 |Find Median from Data Stream  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Find\%20Median\%20from\%20Data\%20Stream.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Find\%20Median\%20from\%20Data\%20Stream.java) | []()|
 |Find Minimum in Rotated Sorted Array  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Find\%20Minimum\%20in\%20Rotated\%20Sorted\%20Array.cpp) | []() | []()|
 |Find Minimum in Rotated Sorted Array II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Find\%20Minimum\%20in\%20Rotated\%20Sorted\%20Array\%20II.cpp) | []() | []()|
@@ -161,7 +162,7 @@
 |Linked List Cycle  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Linked\%20List\%20Cycle.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Linked\%20List\%20Cycle.java) | []()|
 |Logger Rate Limiter  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Logger\%20Rate\%20Limiter.java) | []()|
 |Longest Common Prefix  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Longest\%20Common\%20Prefix.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Longest\%20Common\%20Prefix.java) | []()|
-|Longest Consecutive Sequence  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Longest\%20Consecutive\%20Sequence.cpp) | []() | []()|
+|Longest Consecutive Sequence  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Longest\%20Consecutive\%20Sequence.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Longest\%20Consecutive\%20Sequence.java) | []()|
 |Longest Harmonious Subsequence  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Longest\%20Harmonious\%20Subsequence.java) | []()|
 |Longest Increasing Path in a Matrix  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Longest\%20Increasing\%20Path\%20in\%20a\%20Matrix.cpp) | []() | []()|
 |Longest Increasing Subsequence  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Longest\%20Increasing\%20Subsequence.cpp) | []() | []()|
@@ -201,6 +202,7 @@
 |Minimum Path Sum  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Minimum\%20Path\%20Sum.cpp) | []() | []()|
 |Minimum Size Subarray Sum  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Minimum\%20Size\%20Subarray\%20Sum.cpp) | []() | []()|
 |Minimum Time Difference  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Minimum\%20Time\%20Difference.java) | []()|
+|Minimum Unique Word Abbreviation  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Minimum\%20Unique\%20Word\%20Abbreviation.java) | []()|
 |Minimum Window Substring  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Minimum\%20Window\%20Substring.cpp) | []() | []()|
 |Missing Number  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Missing\%20Number.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Missing\%20Number.java) | []()|
 |Missing Ranges  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Missing\%20Ranges.cpp) | []() | []()|
