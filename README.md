@@ -9,6 +9,7 @@
 |4Sum  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/4Sum.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/4Sum.java) | []()|
 |4Sum II  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/4Sum\%20II.java) | []()|
 |Add Binary  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Add\%20Binary.cpp) | []() | []()|
+|Add Bold Tag in String  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Add\%20Bold\%20Tag\%20in\%20String.java) | []()|
 |Add Digits  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Add\%20Digits.cpp) | []() | []()|
 |Add Two Numbers  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Add\%20Two\%20Numbers.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Add\%20Two\%20Numbers.java) | [python](https://github.com/acgtun/leetcode/tree/master/algorithms/python/Add\%20Two\%20Numbers.py)|
 |Add Two Numbers II  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Add\%20Two\%20Numbers\%20II.java) | []()|
@@ -85,6 +86,7 @@
 |Decode Ways  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Decode\%20Ways.cpp) | []() | []()|
 |Delete Node in a Linked List  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Delete\%20Node\%20in\%20a\%20Linked\%20List.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Delete\%20Node\%20in\%20a\%20Linked\%20List.java) | []()|
 |Delete Operation for Two Strings  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Delete\%20Operation\%20for\%20Two\%20Strings.java) | []()|
+|Design Compressed String Iterator  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Design\%20Compressed\%20String\%20Iterator.java) | []()|
 |Design In-Memory File System  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Design\%20In-Memory\%20File\%20System.java) | []()|
 |Design Phone Directory  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Design\%20Phone\%20Directory.java) | []()|
 |Design Tic-Tac-Toe  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Design\%20Tic-Tac-Toe.java) | []()|
@@ -196,6 +198,7 @@
 |Meeting Rooms II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Meeting\%20Rooms\%20II.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Meeting\%20Rooms\%20II.java) | []()|
 |Merge Intervals  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Merge\%20Intervals.cpp) | []() | []()|
 |Merge Sorted Array  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Merge\%20Sorted\%20Array.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Merge\%20Sorted\%20Array.java) | []()|
+|Merge Two Binary Trees  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Merge\%20Two\%20Binary\%20Trees.java) | []()|
 |Merge Two Sorted Lists  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Merge\%20Two\%20Sorted\%20Lists.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Merge\%20Two\%20Sorted\%20Lists.java) | []()|
 |Merge k Sorted Lists  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Merge\%20k\%20Sorted\%20Lists.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Merge\%20k\%20Sorted\%20Lists.java) | []()|
 |Min Stack  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Min\%20Stack.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Min\%20Stack.java) | []()|
@@ -357,6 +360,7 @@
 |Valid Parentheses  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Valid\%20Parentheses.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Valid\%20Parentheses.java) | []()|
 |Valid Square  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Valid\%20Square.java) | []()|
 |Valid Sudoku  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Valid\%20Sudoku.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Valid\%20Sudoku.java) | []()|
+|Valid Triangle Number  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Valid\%20Triangle\%20Number.java) | []()|
 |Validate Binary Search Tree  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Validate\%20Binary\%20Search\%20Tree.cpp) | []() | []()|
 |Verify Preorder Serialization of a Binary Tree  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Verify\%20Preorder\%20Serialization\%20of\%20a\%20Binary\%20Tree.cpp) | []() | []()|
 |Walls and Gates  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Walls\%20and\%20Gates.cpp) | []() | []()|
@@ -374,3 +378,4 @@
 |Word Squares  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Word\%20Squares.java) | []()|
 |Zigzag Iterator  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Zigzag\%20Iterator.cpp) | []() | []()|
 |ceilFloorIndex  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/ceilFloorIndex.java) | []()|
+|hihocoder-1284-机会渺茫  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/hihocoder-1284-机会渺茫.cpp) | []() | []()|
