@@ -11,6 +11,7 @@
 |Add Binary  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Add\%20Binary.cpp) | []() | []()|
 |Add Bold Tag in String  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Add\%20Bold\%20Tag\%20in\%20String.java) | []()|
 |Add Digits  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Add\%20Digits.cpp) | []() | []()|
+|Add One Row to Tree  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Add\%20One\%20Row\%20to\%20Tree.java) | []()|
 |Add Two Numbers  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Add\%20Two\%20Numbers.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Add\%20Two\%20Numbers.java) | [python](https://github.com/acgtun/leetcode/tree/master/algorithms/python/Add\%20Two\%20Numbers.py)|
 |Add Two Numbers II  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Add\%20Two\%20Numbers\%20II.java) | []()|
 |Add and Search Word - Data structure design  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Add\%20and\%20Search\%20Word\%20-\%20Data\%20structure\%20design.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Add\%20and\%20Search\%20Word\%20-\%20Data\%20structure\%20design.java) | []()|
@@ -188,6 +189,7 @@
 |Maximal Rectangle  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Maximal\%20Rectangle.cpp) | []() | []()|
 |Maximal Square  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Maximal\%20Square.cpp) | []() | []()|
 |Maximum Depth of Binary Tree  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Maximum\%20Depth\%20of\%20Binary\%20Tree.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Maximum\%20Depth\%20of\%20Binary\%20Tree.java) | []()|
+|Maximum Distance in Arrays  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Maximum\%20Distance\%20in\%20Arrays.java) | []()|
 |Maximum Product Subarray  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Maximum\%20Product\%20Subarray.cpp) | []() | []()|
 |Maximum Product of Word Lengths  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Maximum\%20Product\%20of\%20Word\%20Lengths.java) | []()|
 |Maximum Size Subarray Sum Equals k  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Maximum\%20Size\%20Subarray\%20Sum\%20Equals\%20k.cpp) | []() | []()|
@@ -204,6 +206,7 @@
 |Min Stack  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Min\%20Stack.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Min\%20Stack.java) | []()|
 |Minesweeper  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Minesweeper.java) | []()|
 |Minimum Depth of Binary Tree  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Minimum\%20Depth\%20of\%20Binary\%20Tree.cpp) | []() | []()|
+|Minimum Factorization  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Minimum\%20Factorization.java) | []()|
 |Minimum Genetic Mutation  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Minimum\%20Genetic\%20Mutation.cpp) | []() | []()|
 |Minimum Index Sum of Two Lists  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Minimum\%20Index\%20Sum\%20of\%20Two\%20Lists.java) | []()|
 |Minimum Path Sum  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Minimum\%20Path\%20Sum.cpp) | []() | []()|
@@ -341,6 +344,7 @@
 |Swap Nodes in Pairs  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Swap\%20Nodes\%20in\%20Pairs.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Swap\%20Nodes\%20in\%20Pairs.java) | []()|
 |Symmetric Tree  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Symmetric\%20Tree.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Symmetric\%20Tree.java) | []()|
 |Tag Validator  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Tag\%20Validator.java) | []()|
+|Task Scheduler  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Task\%20Scheduler.java) | []()|
 |The Skyline Problem  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/The\%20Skyline\%20Problem.cpp) | []() | []()|
 |Top K Frequent Elements  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Top\%20K\%20Frequent\%20Elements.java) | []()|
 |Trapping Rain Water  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Trapping\%20Rain\%20Water.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Trapping\%20Rain\%20Water.java) | []()|
