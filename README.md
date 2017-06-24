@@ -165,7 +165,7 @@
 |Largest Number  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Largest\%20Number.cpp) | []() | []()|
 |Largest Rectangle in Histogram  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Largest\%20Rectangle\%20in\%20Histogram.cpp) | []() | []()|
 |Length of Last Word  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Length\%20of\%20Last\%20Word.cpp) | []() | []()|
-|Letter Combinations of a Phone Number  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Letter\%20Combinations\%20of\%20a\%20Phone\%20Number.cpp) | []() | []()|
+|Letter Combinations of a Phone Number  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Letter\%20Combinations\%20of\%20a\%20Phone\%20Number.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Letter\%20Combinations\%20of\%20a\%20Phone\%20Number.java) | []()|
 |Linked List Cycle  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Linked\%20List\%20Cycle.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Linked\%20List\%20Cycle.java) | []()|
 |Logger Rate Limiter  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Logger\%20Rate\%20Limiter.java) | []()|
 |Longest Common Prefix  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Longest\%20Common\%20Prefix.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Longest\%20Common\%20Prefix.java) | []()|
@@ -306,8 +306,8 @@
 |Search a 2D Matrix  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Search\%20a\%202D\%20Matrix.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Search\%20a\%202D\%20Matrix.java) | []()|
 |Search a 2D Matrix II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Search\%20a\%202D\%20Matrix\%20II.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Search\%20a\%202D\%20Matrix\%20II.java) | []()|
 |Search for a Range  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Search\%20for\%20a\%20Range.cpp) | []() | []()|
-|Search in Rotated Sorted Array  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Search\%20in\%20Rotated\%20Sorted\%20Array.cpp) | []() | []()|
-|Search in Rotated Sorted Array II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Search\%20in\%20Rotated\%20Sorted\%20Array\%20II.cpp) | []() | []()|
+|Search in Rotated Sorted Array  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Search\%20in\%20Rotated\%20Sorted\%20Array.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Search\%20in\%20Rotated\%20Sorted\%20Array.java) | []()|
+|Search in Rotated Sorted Array II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Search\%20in\%20Rotated\%20Sorted\%20Array\%20II.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Search\%20in\%20Rotated\%20Sorted\%20Array\%20II.java) | []()|
 |Serialize and Deserialize BST  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Serialize\%20and\%20Deserialize\%20BST.java) | []()|
 |Serialize and Deserialize Binary Tree  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Serialize\%20and\%20Deserialize\%20Binary\%20Tree.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Serialize\%20and\%20Deserialize\%20Binary\%20Tree.java) | []()|
 |Set Matrix Zeroes  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Set\%20Matrix\%20Zeroes.cpp) | []() | []()|
