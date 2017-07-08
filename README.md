@@ -2,7 +2,6 @@
 
 |Problem | C/C++ | Java | Python3 |
 |:----------|:-------------:|:------:|:------:|
-|.DS_Store | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/.DS_Store) | []()|
 |01 Matrix  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/01\%20Matrix.java) | []()|
 |3Sum  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/3Sum.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/3Sum.java) | []()|
 |3Sum Closest  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/3Sum\%20Closest.cpp) | []() | []()|
