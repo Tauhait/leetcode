@@ -2,6 +2,7 @@
 
 |Problem | C/C++ | Java | Python3 |
 |:----------|:-------------:|:------:|:------:|
+|.DS_Store | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/.DS_Store) | []()|
 |01 Matrix  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/01\%20Matrix.java) | []()|
 |3Sum  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/3Sum.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/3Sum.java) | []()|
 |3Sum Closest  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/3Sum\%20Closest.cpp) | []() | []()|
@@ -84,10 +85,12 @@
 |Counting Bits  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Counting\%20Bits.java) | []()|
 |Course Schedule  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Course\%20Schedule.cpp) | []() | []()|
 |Course Schedule II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Course\%20Schedule\%20II.cpp) | []() | []()|
+|Course Schedule III  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Course\%20Schedule\%20III.java) | []()|
 |Decode Ways  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Decode\%20Ways.cpp) | []() | []()|
 |Delete Node in a Linked List  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Delete\%20Node\%20in\%20a\%20Linked\%20List.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Delete\%20Node\%20in\%20a\%20Linked\%20List.java) | []()|
 |Delete Operation for Two Strings  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Delete\%20Operation\%20for\%20Two\%20Strings.java) | []()|
 |Design Compressed String Iterator  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Design\%20Compressed\%20String\%20Iterator.java) | []()|
+|Design Excel Sum Formula  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Design\%20Excel\%20Sum\%20Formula.java) | []()|
 |Design In-Memory File System  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Design\%20In-Memory\%20File\%20System.java) | []()|
 |Design Log Storage System  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Design\%20Log\%20Storage\%20System.java) | []()|
 |Design Phone Directory  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Design\%20Phone\%20Directory.java) | []()|
@@ -157,6 +160,7 @@
 |Isomorphic Strings  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Isomorphic\%20Strings.cpp) | []() | []()|
 |Jump Game  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Jump\%20Game.cpp) | []() | []()|
 |Jump Game II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Jump\%20Game\%20II.cpp) | []() | []()|
+|K Inverse Pairs Array  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/K\%20Inverse\%20Pairs\%20Array.java) | []()|
 |Kill Process  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Kill\%20Process.java) | []()|
 |Kth Largest Element in an Array  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Kth\%20Largest\%20Element\%20in\%20an\%20Array.cpp) | []() | []()|
 |Kth Smallest Element in a BST  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Kth\%20Smallest\%20Element\%20in\%20a\%20BST.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Kth\%20Smallest\%20Element\%20in\%20a\%20BST.java) | []()|
@@ -193,6 +197,7 @@
 |Maximum Depth of Binary Tree  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Maximum\%20Depth\%20of\%20Binary\%20Tree.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Maximum\%20Depth\%20of\%20Binary\%20Tree.java) | []()|
 |Maximum Distance in Arrays  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Maximum\%20Distance\%20in\%20Arrays.java) | []()|
 |Maximum Product Subarray  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Maximum\%20Product\%20Subarray.cpp) | []() | []()|
+|Maximum Product of Three Numbers  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Maximum\%20Product\%20of\%20Three\%20Numbers.java) | []()|
 |Maximum Product of Word Lengths  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Maximum\%20Product\%20of\%20Word\%20Lengths.java) | []()|
 |Maximum Size Subarray Sum Equals k  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Maximum\%20Size\%20Subarray\%20Sum\%20Equals\%20k.cpp) | []() | []()|
 |Maximum Subarray  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Maximum\%20Subarray.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Maximum\%20Subarray.java) | []()|
