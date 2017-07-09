@@ -19,6 +19,7 @@
 |Android Unlock Patterns  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Android\%20Unlock\%20Patterns.java) | []()|
 |Array Nesting  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Array\%20Nesting.java) | []()|
 |Array Partition I  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Array\%20Partition\%20I.java) | []()|
+|Average of Levels in Binary Tree  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Average\%20of\%20Levels\%20in\%20Binary\%20Tree.java) | []()|
 |Balanced Binary Tree  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Balanced\%20Binary\%20Tree.cpp) | []() | []()|
 |Base 7  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Base\%207.java) | []()|
 |Basic Calculator  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Basic\%20Calculator.cpp) | []() | []()|
@@ -86,6 +87,7 @@
 |Course Schedule II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Course\%20Schedule\%20II.cpp) | []() | []()|
 |Course Schedule III  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Course\%20Schedule\%20III.java) | []()|
 |Decode Ways  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Decode\%20Ways.cpp) | []() | []()|
+|Decode Ways II  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Decode\%20Ways\%20II.java) | []()|
 |Delete Node in a Linked List  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Delete\%20Node\%20in\%20a\%20Linked\%20List.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Delete\%20Node\%20in\%20a\%20Linked\%20List.java) | []()|
 |Delete Operation for Two Strings  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Delete\%20Operation\%20for\%20Two\%20Strings.java) | []()|
 |Design Compressed String Iterator  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Design\%20Compressed\%20String\%20Iterator.java) | []()|
@@ -317,6 +319,7 @@
 |Serialize and Deserialize BST  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Serialize\%20and\%20Deserialize\%20BST.java) | []()|
 |Serialize and Deserialize Binary Tree  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Serialize\%20and\%20Deserialize\%20Binary\%20Tree.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Serialize\%20and\%20Deserialize\%20Binary\%20Tree.java) | []()|
 |Set Matrix Zeroes  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Set\%20Matrix\%20Zeroes.cpp) | []() | []()|
+|Shopping Offers  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Shopping\%20Offers.java) | []()|
 |Shortest Unsorted Continuous Subarray  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Shortest\%20Unsorted\%20Continuous\%20Subarray.java) | []()|
 |Shortest Word Distance  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Shortest\%20Word\%20Distance.cpp) | []() | []()|
 |Shortest Word Distance II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Shortest\%20Word\%20Distance\%20II.cpp) | []() | []()|
@@ -328,6 +331,7 @@
 |Single Number III  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Single\%20Number\%20III.cpp) | []() | []()|
 |Smallest Range  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Smallest\%20Range.java) | []()|
 |Smallest Rectangle Enclosing Black Pixels  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Smallest\%20Rectangle\%20Enclosing\%20Black\%20Pixels.cpp) | []() | []()|
+|Solve the Equation  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Solve\%20the\%20Equation.java) | []()|
 |Sort Colors  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Sort\%20Colors.cpp) | []() | []()|
 |Sort List  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Sort\%20List.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Sort\%20List.java) | []()|
 |Sort Transformed Array  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Sort\%20Transformed\%20Array.java) | []()|
