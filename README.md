@@ -95,6 +95,7 @@
 |Design In-Memory File System  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Design\%20In-Memory\%20File\%20System.java) | []()|
 |Design Log Storage System  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Design\%20Log\%20Storage\%20System.java) | []()|
 |Design Phone Directory  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Design\%20Phone\%20Directory.java) | []()|
+|Design Search Autocomplete System  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Design\%20Search\%20Autocomplete\%20System.java) | []()|
 |Design Tic-Tac-Toe  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Design\%20Tic-Tac-Toe.java) | []()|
 |Distinct Subsequences  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Distinct\%20Subsequences.cpp) | []() | []()|
 |Distribute Candies  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Distribute\%20Candies.java) | []()|
@@ -106,6 +107,7 @@
 |Evaluate Reverse Polish Notation  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Evaluate\%20Reverse\%20Polish\%20Notation.cpp) | []() | []()|
 |Excel Sheet Column Number  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Excel\%20Sheet\%20Column\%20Number.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Excel\%20Sheet\%20Column\%20Number.java) | []()|
 |Excel Sheet Column Title  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Excel\%20Sheet\%20Column\%20Title.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Excel\%20Sheet\%20Column\%20Title.java) | []()|
+|Exclusive Time of Functions  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Exclusive\%20Time\%20of\%20Functions.java) | []()|
 |Factor Combinations  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Factor\%20Combinations.cpp) | []() | []()|
 |Factorial Trailing Zeroes  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Factorial\%20Trailing\%20Zeroes.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Factorial\%20Trailing\%20Zeroes.java) | []()|
 |Find Duplicate File in System  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Find\%20Duplicate\%20File\%20in\%20System.java) | []()|
@@ -195,6 +197,8 @@
 |Max Points on a Line  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Max\%20Points\%20on\%20a\%20Line.cpp) | []() | []()|
 |Maximal Rectangle  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Maximal\%20Rectangle.cpp) | []() | []()|
 |Maximal Square  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Maximal\%20Square.cpp) | []() | []()|
+|Maximum Average Subarray I  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Maximum\%20Average\%20Subarray\%20I.java) | []()|
+|Maximum Average Subarray II  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Maximum\%20Average\%20Subarray\%20II.java) | []()|
 |Maximum Depth of Binary Tree  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Maximum\%20Depth\%20of\%20Binary\%20Tree.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Maximum\%20Depth\%20of\%20Binary\%20Tree.java) | []()|
 |Maximum Distance in Arrays  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Maximum\%20Distance\%20in\%20Arrays.java) | []()|
 |Maximum Product Subarray  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Maximum\%20Product\%20Subarray.cpp) | []() | []()|
