@@ -207,7 +207,7 @@
 |Maximum Size Subarray Sum Equals k  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Maximum\%20Size\%20Subarray\%20Sum\%20Equals\%20k.cpp) | []() | []()|
 |Maximum Subarray  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Maximum\%20Subarray.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Maximum\%20Subarray.java) | []()|
 |Maximum Vacation Days  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Maximum\%20Vacation\%20Days.java) | []()|
-|Median of Two Sorted Arrays  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Median\%20of\%20Two\%20Sorted\%20Arrays.cpp) | []() | []()|
+|Median of Two Sorted Arrays  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Median\%20of\%20Two\%20Sorted\%20Arrays.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Median\%20of\%20Two\%20Sorted\%20Arrays.java) | []()|
 |Meeting Rooms  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Meeting\%20Rooms.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Meeting\%20Rooms.java) | []()|
 |Meeting Rooms II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Meeting\%20Rooms\%20II.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Meeting\%20Rooms\%20II.java) | []()|
 |Merge Intervals  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Merge\%20Intervals.cpp) | []() | []()|
@@ -242,7 +242,7 @@
 |Number of 1 Bits  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Number\%20of\%201\%20Bits.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Number\%20of\%201\%20Bits.java) | []()|
 |Number of Connected Components in an Undirected Graph  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Number\%20of\%20Connected\%20Components\%20in\%20an\%20Undirected\%20Graph.cpp) | []() | []()|
 |Number of Islands  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Number\%20of\%20Islands.cpp) | []() | []()|
-|Number of Islands II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Number\%20of\%20Islands\%20II.cpp) | []() | []()|
+|Number of Islands II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Number\%20of\%20Islands\%20II.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Number\%20of\%20Islands\%20II.java) | []()|
 |Odd Even Linked List  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Odd\%20Even\%20Linked\%20List.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Odd\%20Even\%20Linked\%20List.java) | []()|
 |One Edit Distance  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/One\%20Edit\%20Distance.cpp) | []() | []()|
 |Optimal Account Balancing  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Optimal\%20Account\%20Balancing.java) | []()|
