@@ -4,9 +4,11 @@
 |:----------|:-------------:|:------:|:------:|
 |.DS_Store | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/.DS_Store) | []()|
 |01 Matrix  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/01\%20Matrix.java) | []()|
+|2 Keys Keyboard  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/2\%20Keys\%20Keyboard.java) | []()|
 |3Sum  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/3Sum.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/3Sum.java) | []()|
 |3Sum Closest  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/3Sum\%20Closest.cpp) | []() | []()|
 |3Sum Smaller  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/3Sum\%20Smaller.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/3Sum\%20Smaller.java) | []()|
+|4 Keys Keyboard  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/4\%20Keys\%20Keyboard.java) | []()|
 |4Sum  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/4Sum.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/4Sum.java) | []()|
 |4Sum II  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/4Sum\%20II.java) | []()|
 |Add Binary  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Add\%20Binary.cpp) | []() | []()|
@@ -102,6 +104,7 @@
 |Distinct Subsequences  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Distinct\%20Subsequences.cpp) | []() | []()|
 |Distribute Candies  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Distribute\%20Candies.java) | []()|
 |Divide Two Integers  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Divide\%20Two\%20Integers.cpp) | []() | []()|
+|Dota2 Senate  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Dota2\%20Senate.java) | []()|
 |Edit Distance  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Edit\%20Distance.cpp) | []() | []()|
 |Encode and Decode Strings  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Encode\%20and\%20Decode\%20Strings.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Encode\%20and\%20Decode\%20Strings.java) | []()|
 |Encode and Decode TinyURL  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Encode\%20and\%20Decode\%20TinyURL.java) | []()|
@@ -113,6 +116,7 @@
 |Factor Combinations  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Factor\%20Combinations.cpp) | []() | []()|
 |Factorial Trailing Zeroes  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Factorial\%20Trailing\%20Zeroes.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Factorial\%20Trailing\%20Zeroes.java) | []()|
 |Find Duplicate File in System  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Find\%20Duplicate\%20File\%20in\%20System.java) | []()|
+|Find Duplicate Subtrees  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Find\%20Duplicate\%20Subtrees.java) | []()|
 |Find K Pairs with Smallest Sums  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Find\%20K\%20Pairs\%20with\%20Smallest\%20Sums.java) | []()|
 |Find Median from Data Stream  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Find\%20Median\%20from\%20Data\%20Stream.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Find\%20Median\%20from\%20Data\%20Stream.java) | []()|
 |Find Minimum in Rotated Sorted Array  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Find\%20Minimum\%20in\%20Rotated\%20Sorted\%20Array.cpp) | []() | []()|
