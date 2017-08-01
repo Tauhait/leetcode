@@ -16,6 +16,8 @@ if __name__ == '__main__':
         dir = os.path.join(path, lang)
         for dirpath, dirnames, filenames in walk(dir):
             for file in filenames:
+		if file == '.DS_Store':
+			continue
                 problem = file.replace('.' + langs[lang], ' ')
                 solutions[lang][problem] = os.path.join(link, dir, file).replace(' ', '\%20')
                 print(lang)
