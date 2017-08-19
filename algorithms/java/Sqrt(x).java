@@ -24,3 +24,17 @@ public class Solution {
         return res;
     }
 }
+
+/////////////////////////
+class Solution {
+    public int mySqrt(int x) {
+        if(x < 0) throw new IllegalArgumentException();
+        long l = 0, r = x;
+        while(l < r) {
+            long m = l + (r - l + 1) / 2;
+            if(m * m > x) r = m - 1;
+            else l = m;
+        }
+        return (int)l;
+    }
+}

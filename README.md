@@ -101,6 +101,7 @@
 |Design Phone Directory  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Design\%20Phone\%20Directory.java) | []()|
 |Design Search Autocomplete System  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Design\%20Search\%20Autocomplete\%20System.java) | []()|
 |Design Tic-Tac-Toe  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Design\%20Tic-Tac-Toe.java) | []()|
+|Diagonal Traverse  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Diagonal\%20Traverse.java) | []()|
 |Distinct Subsequences  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Distinct\%20Subsequences.cpp) | []() | []()|
 |Distribute Candies  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Distribute\%20Candies.java) | []()|
 |Divide Two Integers  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Divide\%20Two\%20Integers.cpp) | []() | []()|
@@ -117,6 +118,7 @@
 |Factorial Trailing Zeroes  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Factorial\%20Trailing\%20Zeroes.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Factorial\%20Trailing\%20Zeroes.java) | []()|
 |Find Duplicate File in System  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Find\%20Duplicate\%20File\%20in\%20System.java) | []()|
 |Find Duplicate Subtrees  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Find\%20Duplicate\%20Subtrees.java) | []()|
+|Find K Closest Elements  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Find\%20K\%20Closest\%20Elements.java) | []()|
 |Find K Pairs with Smallest Sums  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Find\%20K\%20Pairs\%20with\%20Smallest\%20Sums.java) | []()|
 |Find Median from Data Stream  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Find\%20Median\%20from\%20Data\%20Stream.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Find\%20Median\%20from\%20Data\%20Stream.java) | []()|
 |Find Minimum in Rotated Sorted Array  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Find\%20Minimum\%20in\%20Rotated\%20Sorted\%20Array.cpp) | []() | []()|
@@ -150,8 +152,8 @@
 |Hamming Distance  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Hamming\%20Distance.java) | []()|
 |Happy Number  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Happy\%20Number.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Happy\%20Number.java) | []()|
 |House Robber  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/House\%20Robber.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/House\%20Robber.java) | []()|
-|House Robber II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/House\%20Robber\%20II.cpp) | []() | []()|
-|House Robber III  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/House\%20Robber\%20III.cpp) | []() | []()|
+|House Robber II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/House\%20Robber\%20II.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/House\%20Robber\%20II.java) | []()|
+|House Robber III  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/House\%20Robber\%20III.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/House\%20Robber\%20III.java) | []()|
 |Implement Queue using Stacks  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Implement\%20Queue\%20using\%20Stacks.cpp) | []() | []()|
 |Implement Stack using Queues  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Implement\%20Stack\%20using\%20Queues.cpp) | []() | []()|
 |Implement Trie (Prefix Tree)  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Implement\%20Trie\%20(Prefix\%20Tree).cpp) | []() | []()|
@@ -168,6 +170,7 @@
 |Invert Binary Tree  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Invert\%20Binary\%20Tree.cpp) | []() | []()|
 |Island Perimeter  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Island\%20Perimeter.java) | []()|
 |Isomorphic Strings  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Isomorphic\%20Strings.cpp) | []() | []()|
+|Judge Route Circle  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Judge\%20Route\%20Circle.java) | []()|
 |Jump Game  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Jump\%20Game.cpp) | []() | []()|
 |Jump Game II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Jump\%20Game\%20II.cpp) | []() | []()|
 |K Inverse Pairs Array  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/K\%20Inverse\%20Pairs\%20Array.java) | []()|
@@ -298,6 +301,7 @@
 |Read N Characters Given Read4 II - Call multiple times  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Read\%20N\%20Characters\%20Given\%20Read4\%20II\%20-\%20Call\%20multiple\%20times.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Read\%20N\%20Characters\%20Given\%20Read4\%20II\%20-\%20Call\%20multiple\%20times.java) | []()|
 |Rectangle Area  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Rectangle\%20Area.cpp) | []() | []()|
 |Regular Expression Matching  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Regular\%20Expression\%20Matching.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Regular\%20Expression\%20Matching.java) | []()|
+|Remove 9  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Remove\%209.java) | []()|
 |Remove Duplicates from Sorted Array  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Remove\%20Duplicates\%20from\%20Sorted\%20Array.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Remove\%20Duplicates\%20from\%20Sorted\%20Array.java) | []()|
 |Remove Duplicates from Sorted Array II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Remove\%20Duplicates\%20from\%20Sorted\%20Array\%20II.cpp) | []() | []()|
 |Remove Duplicates from Sorted List  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Remove\%20Duplicates\%20from\%20Sorted\%20List.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Remove\%20Duplicates\%20from\%20Sorted\%20List.java) | []()|
@@ -354,6 +358,7 @@
 |Sort Transformed Array  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Sort\%20Transformed\%20Array.java) | []()|
 |Spiral Matrix  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Spiral\%20Matrix.cpp) | []() | []()|
 |Spiral Matrix II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Spiral\%20Matrix\%20II.cpp) | []() | []()|
+|Split Array into Consecutive Subsequences  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Split\%20Array\%20into\%20Consecutive\%20Subsequences.java) | []()|
 |Sqrt(x)  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Sqrt(x).cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Sqrt(x).java) | []()|
 |Squirrel Simulation  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Squirrel\%20Simulation.java) | []()|
 |String to Integer (atoi)  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/String\%20to\%20Integer\%20(atoi).java) | []()|
