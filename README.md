@@ -299,6 +299,7 @@
 |Range Sum Query - Immutable  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Range\%20Sum\%20Query\%20-\%20Immutable.cpp) | []() | []()|
 |Range Sum Query - Mutable  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Range\%20Sum\%20Query\%20-\%20Mutable.cpp) | []() | []()|
 |Range Sum Query 2D - Immutable  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Range\%20Sum\%20Query\%202D\%20-\%20Immutable.cpp) | []() | []()|
+|Range Sum Query 2D - Mutable  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Range\%20Sum\%20Query\%202D\%20-\%20Mutable.java) | []()|
 |Read N Characters Given Read4  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Read\%20N\%20Characters\%20Given\%20Read4.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Read\%20N\%20Characters\%20Given\%20Read4.java) | []()|
 |Read N Characters Given Read4 II - Call multiple times  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Read\%20N\%20Characters\%20Given\%20Read4\%20II\%20-\%20Call\%20multiple\%20times.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Read\%20N\%20Characters\%20Given\%20Read4\%20II\%20-\%20Call\%20multiple\%20times.java) | []()|
 |Rectangle Area  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Rectangle\%20Area.cpp) | []() | []()|
