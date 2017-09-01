@@ -24,8 +24,8 @@
 |Average of Levels in Binary Tree  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Average\%20of\%20Levels\%20in\%20Binary\%20Tree.java) | []()|
 |Balanced Binary Tree  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Balanced\%20Binary\%20Tree.cpp) | []() | []()|
 |Base 7  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Base\%207.java) | []()|
-|Basic Calculator  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Basic\%20Calculator.cpp) | []() | []()|
-|Basic Calculator II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Basic\%20Calculator\%20II.cpp) | []() | []()|
+|Basic Calculator  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Basic\%20Calculator.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Basic\%20Calculator.java) | []()|
+|Basic Calculator II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Basic\%20Calculator\%20II.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Basic\%20Calculator\%20II.java) | []()|
 |Battleships in a Board  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Battleships\%20in\%20a\%20Board.java) | []()|
 |Best Meeting Point  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Best\%20Meeting\%20Point.cpp) | []() | []()|
 |Best Time to Buy and Sell Stock  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Best\%20Time\%20to\%20Buy\%20and\%20Sell\%20Stock.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Best\%20Time\%20to\%20Buy\%20and\%20Sell\%20Stock.java) | []()|
@@ -87,7 +87,7 @@
 |Count of Range Sum  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Count\%20of\%20Range\%20Sum.java) | []()|
 |Count of Smaller Numbers After Self  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Count\%20of\%20Smaller\%20Numbers\%20After\%20Self.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Count\%20of\%20Smaller\%20Numbers\%20After\%20Self.java) | []()|
 |Counting Bits  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Counting\%20Bits.java) | []()|
-|Course Schedule  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Course\%20Schedule.cpp) | []() | []()|
+|Course Schedule  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Course\%20Schedule.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Course\%20Schedule.java) | []()|
 |Course Schedule II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Course\%20Schedule\%20II.cpp) | []() | []()|
 |Course Schedule III  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Course\%20Schedule\%20III.java) | []()|
 |Decode Ways  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Decode\%20Ways.cpp) | []() | []()|
@@ -140,7 +140,7 @@
 |Flip Game  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Flip\%20Game.cpp) | []() | []()|
 |Flip Game II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Flip\%20Game\%20II.cpp) | []() | []()|
 |Fraction Addition and Subtraction  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Fraction\%20Addition\%20and\%20Subtraction.java) | []()|
-|Fraction to Recurring Decimal  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Fraction\%20to\%20Recurring\%20Decimal.cpp) | []() | []()|
+|Fraction to Recurring Decimal  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Fraction\%20to\%20Recurring\%20Decimal.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Fraction\%20to\%20Recurring\%20Decimal.java) | []()|
 |Game of Life  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Game\%20of\%20Life.cpp) | []() | []()|
 |Gas Station  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Gas\%20Station.cpp) | []() | []()|
 |Generate Parentheses  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Generate\%20Parentheses.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Generate\%20Parentheses.java) | []()|
@@ -160,6 +160,7 @@
 |Implement strStr()  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Implement\%20strStr().cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Implement\%20strStr().java) | []()|
 |Inorder Successor in BST  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Inorder\%20Successor\%20in\%20BST.cpp) | []() | []()|
 |Insert Delete GetRandom O(1)  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Insert\%20Delete\%20GetRandom\%20O(1).java) | []()|
+|Insert Delete GetRandom O(1) - Duplicates allowed  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Insert\%20Delete\%20GetRandom\%20O(1)\%20-\%20Duplicates\%20allowed.java) | []()|
 |Insert Interval  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Insert\%20Interval.cpp) | []() | []()|
 |Insertion Sort List  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Insertion\%20Sort\%20List.cpp) | []() | []()|
 |Integer to English Words  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Integer\%20to\%20English\%20Words.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Integer\%20to\%20English\%20Words.java) | []()|
@@ -201,6 +202,7 @@
 |Longest Valid Parentheses  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Longest\%20Valid\%20Parentheses.cpp) | []() | []()|
 |Lowest Common Ancestor of a Binary Search Tree  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Lowest\%20Common\%20Ancestor\%20of\%20a\%20Binary\%20Search\%20Tree.cpp) | []() | []()|
 |Lowest Common Ancestor of a Binary Tree  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Lowest\%20Common\%20Ancestor\%20of\%20a\%20Binary\%20Tree.cpp) | []() | []()|
+|Magical String  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Magical\%20String.java) | []()|
 |Majority Element  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Majority\%20Element.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Majority\%20Element.java) | []()|
 |Majority Element II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Majority\%20Element\%20II.cpp) | []() | []()|
 |Matchsticks to Square  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Matchsticks\%20to\%20Square.java) | []()|
@@ -318,7 +320,7 @@
 |Reverse Integer  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Reverse\%20Integer.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Reverse\%20Integer.java) | []()|
 |Reverse Linked List  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Reverse\%20Linked\%20List.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Reverse\%20Linked\%20List.java) | []()|
 |Reverse Linked List II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Reverse\%20Linked\%20List\%20II.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Reverse\%20Linked\%20List\%20II.java) | []()|
-|Reverse Nodes in k-Group  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Reverse\%20Nodes\%20in\%20k-Group.cpp) | []() | []()|
+|Reverse Nodes in k-Group  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Reverse\%20Nodes\%20in\%20k-Group.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Reverse\%20Nodes\%20in\%20k-Group.java) | []()|
 |Reverse Pairs  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Reverse\%20Pairs.java) | []()|
 |Reverse String  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Reverse\%20String.java) | []()|
 |Reverse String II  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Reverse\%20String\%20II.java) | []()|
@@ -341,6 +343,7 @@
 |Set Matrix Zeroes  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Set\%20Matrix\%20Zeroes.cpp) | []() | []()|
 |Set Mismatch  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Set\%20Mismatch.java) | []()|
 |Shopping Offers  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Shopping\%20Offers.java) | []()|
+|Shortest Distance from All Buildings  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Shortest\%20Distance\%20from\%20All\%20Buildings.java) | []()|
 |Shortest Unsorted Continuous Subarray  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Shortest\%20Unsorted\%20Continuous\%20Subarray.java) | []()|
 |Shortest Word Distance  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Shortest\%20Word\%20Distance.cpp) | []() | []()|
 |Shortest Word Distance II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Shortest\%20Word\%20Distance\%20II.cpp) | []() | []()|
@@ -351,7 +354,7 @@
 |Single Number II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Single\%20Number\%20II.cpp) | []() | []()|
 |Single Number III  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Single\%20Number\%20III.cpp) | []() | []()|
 |Smallest Range  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Smallest\%20Range.java) | []()|
-|Smallest Rectangle Enclosing Black Pixels  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Smallest\%20Rectangle\%20Enclosing\%20Black\%20Pixels.cpp) | []() | []()|
+|Smallest Rectangle Enclosing Black Pixels  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Smallest\%20Rectangle\%20Enclosing\%20Black\%20Pixels.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Smallest\%20Rectangle\%20Enclosing\%20Black\%20Pixels.java) | []()|
 |Solve the Equation  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Solve\%20the\%20Equation.java) | []()|
 |Sort Colors  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Sort\%20Colors.cpp) | []() | []()|
 |Sort List  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Sort\%20List.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Sort\%20List.java) | []()|
@@ -379,6 +382,7 @@
 |Symmetric Tree  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Symmetric\%20Tree.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Symmetric\%20Tree.java) | []()|
 |Tag Validator  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Tag\%20Validator.java) | []()|
 |Task Scheduler  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Task\%20Scheduler.java) | []()|
+|The Maze  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/The\%20Maze.java) | []()|
 |The Skyline Problem  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/The\%20Skyline\%20Problem.cpp) | []() | []()|
 |Top K Frequent Elements  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Top\%20K\%20Frequent\%20Elements.java) | []()|
 |Trapping Rain Water  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Trapping\%20Rain\%20Water.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Trapping\%20Rain\%20Water.java) | []()|
