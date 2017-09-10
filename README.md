@@ -30,6 +30,7 @@
 |Best Meeting Point  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Best\%20Meeting\%20Point.cpp) | []() | []()|
 |Best Time to Buy and Sell Stock  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Best\%20Time\%20to\%20Buy\%20and\%20Sell\%20Stock.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Best\%20Time\%20to\%20Buy\%20and\%20Sell\%20Stock.java) | []()|
 |Best Time to Buy and Sell Stock II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Best\%20Time\%20to\%20Buy\%20and\%20Sell\%20Stock\%20II.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Best\%20Time\%20to\%20Buy\%20and\%20Sell\%20Stock\%20II.java) | []()|
+|Best Time to Buy and Sell Stock with Cooldown  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Best\%20Time\%20to\%20Buy\%20and\%20Sell\%20Stock\%20with\%20Cooldown.java) | []()|
 |Binary Search Tree Iterator  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Binary\%20Search\%20Tree\%20Iterator.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Binary\%20Search\%20Tree\%20Iterator.java) | []()|
 |Binary Tree Inorder Traversal  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Binary\%20Tree\%20Inorder\%20Traversal.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Binary\%20Tree\%20Inorder\%20Traversal.java) | []()|
 |Binary Tree Level Order Traversal  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Binary\%20Tree\%20Level\%20Order\%20Traversal.cpp) | []() | []()|
@@ -90,6 +91,7 @@
 |Course Schedule  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Course\%20Schedule.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Course\%20Schedule.java) | []()|
 |Course Schedule II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Course\%20Schedule\%20II.cpp) | []() | []()|
 |Course Schedule III  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Course\%20Schedule\%20III.java) | []()|
+|Cut Off Trees for Golf Event  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Cut\%20Off\%20Trees\%20for\%20Golf\%20Event.java) | []()|
 |Decode Ways  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Decode\%20Ways.cpp) | []() | []()|
 |Decode Ways II  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Decode\%20Ways\%20II.java) | []()|
 |Delete Node in a Linked List  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Delete\%20Node\%20in\%20a\%20Linked\%20List.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Delete\%20Node\%20in\%20a\%20Linked\%20List.java) | []()|
@@ -100,6 +102,7 @@
 |Design Log Storage System  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Design\%20Log\%20Storage\%20System.java) | []()|
 |Design Phone Directory  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Design\%20Phone\%20Directory.java) | []()|
 |Design Search Autocomplete System  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Design\%20Search\%20Autocomplete\%20System.java) | []()|
+|Design Snake Game  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Design\%20Snake\%20Game.java) | []()|
 |Design Tic-Tac-Toe  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Design\%20Tic-Tac-Toe.java) | []()|
 |Diagonal Traverse  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Diagonal\%20Traverse.java) | []()|
 |Distinct Subsequences  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Distinct\%20Subsequences.cpp) | []() | []()|
@@ -154,6 +157,8 @@
 |House Robber  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/House\%20Robber.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/House\%20Robber.java) | []()|
 |House Robber II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/House\%20Robber\%20II.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/House\%20Robber\%20II.java) | []()|
 |House Robber III  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/House\%20Robber\%20III.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/House\%20Robber\%20III.java) | []()|
+|IPO  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/IPO.java) | []()|
+|Implement Magic Dictionary  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Implement\%20Magic\%20Dictionary.java) | []()|
 |Implement Queue using Stacks  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Implement\%20Queue\%20using\%20Stacks.cpp) | []() | []()|
 |Implement Stack using Queues  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Implement\%20Stack\%20using\%20Queues.cpp) | []() | []()|
 |Implement Trie (Prefix Tree)  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Implement\%20Trie\%20(Prefix\%20Tree).cpp) | []() | []()|
@@ -190,6 +195,7 @@
 |Logger Rate Limiter  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Logger\%20Rate\%20Limiter.java) | []()|
 |Longest Common Prefix  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Longest\%20Common\%20Prefix.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Longest\%20Common\%20Prefix.java) | []()|
 |Longest Consecutive Sequence  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Longest\%20Consecutive\%20Sequence.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Longest\%20Consecutive\%20Sequence.java) | []()|
+|Longest Continuous Increasing Subsequence  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Longest\%20Continuous\%20Increasing\%20Subsequence.java) | []()|
 |Longest Harmonious Subsequence  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Longest\%20Harmonious\%20Subsequence.java) | []()|
 |Longest Increasing Path in a Matrix  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Longest\%20Increasing\%20Path\%20in\%20a\%20Matrix.cpp) | []() | []()|
 |Longest Increasing Subsequence  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Longest\%20Increasing\%20Subsequence.cpp) | []() | []()|
@@ -206,6 +212,7 @@
 |Majority Element  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Majority\%20Element.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Majority\%20Element.java) | []()|
 |Majority Element II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Majority\%20Element\%20II.cpp) | []() | []()|
 |Matchsticks to Square  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Matchsticks\%20to\%20Square.java) | []()|
+|Max Consecutive Ones II  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Max\%20Consecutive\%20Ones\%20II.java) | []()|
 |Max Points on a Line  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Max\%20Points\%20on\%20a\%20Line.cpp) | []() | []()|
 |Maximal Rectangle  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Maximal\%20Rectangle.cpp) | []() | []()|
 |Maximal Square  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Maximal\%20Square.cpp) | []() | []()|
@@ -249,6 +256,7 @@
 |N-Queens II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/N-Queens\%20II.cpp) | []() | []()|
 |Nested List Weight Sum  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Nested\%20List\%20Weight\%20Sum.java) | []()|
 |Nested List Weight Sum II  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Nested\%20List\%20Weight\%20Sum\%20II.java) | []()|
+|Next Greater Element III  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Next\%20Greater\%20Element\%20III.java) | []()|
 |Next Permutation  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Next\%20Permutation.cpp) | []() | []()|
 |Nim Game  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Nim\%20Game.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Nim\%20Game.java) | []()|
 |Non-negative Integers without Consecutive Ones  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Non-negative\%20Integers\%20without\%20Consecutive\%20Ones.java) | []()|
@@ -257,6 +265,7 @@
 |Number of Connected Components in an Undirected Graph  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Number\%20of\%20Connected\%20Components\%20in\%20an\%20Undirected\%20Graph.cpp) | []() | []()|
 |Number of Islands  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Number\%20of\%20Islands.cpp) | []() | []()|
 |Number of Islands II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Number\%20of\%20Islands\%20II.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Number\%20of\%20Islands\%20II.java) | []()|
+|Number of Longest Increasing Subsequence  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Number\%20of\%20Longest\%20Increasing\%20Subsequence.java) | []()|
 |Odd Even Linked List  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Odd\%20Even\%20Linked\%20List.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Odd\%20Even\%20Linked\%20List.java) | []()|
 |One Edit Distance  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/One\%20Edit\%20Distance.cpp) | []() | []()|
 |Optimal Account Balancing  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Optimal\%20Account\%20Balancing.java) | []()|
@@ -407,7 +416,7 @@
 |Valid Sudoku  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Valid\%20Sudoku.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Valid\%20Sudoku.java) | []()|
 |Valid Triangle Number  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Valid\%20Triangle\%20Number.java) | []()|
 |Validate Binary Search Tree  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Validate\%20Binary\%20Search\%20Tree.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Validate\%20Binary\%20Search\%20Tree.java) | []()|
-|Verify Preorder Serialization of a Binary Tree  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Verify\%20Preorder\%20Serialization\%20of\%20a\%20Binary\%20Tree.cpp) | []() | []()|
+|Verify Preorder Serialization of a Binary Tree  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Verify\%20Preorder\%20Serialization\%20of\%20a\%20Binary\%20Tree.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Verify\%20Preorder\%20Serialization\%20of\%20a\%20Binary\%20Tree.java) | []()|
 |Walls and Gates  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Walls\%20and\%20Gates.cpp) | []() | []()|
 |Wiggle Sort  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Wiggle\%20Sort.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Wiggle\%20Sort.java) | []()|
 |Wildcard Matching  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Wildcard\%20Matching.cpp) | []() | []()|
