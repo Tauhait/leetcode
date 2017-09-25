@@ -51,3 +51,52 @@ public class Solution {
         return minCost;
     }
 }
+
+//////////////////////////
+// O(k) space complexity
+class Solution {
+    private int[] getFirstSecondMin(int[] nums) {
+        int firstID = -1;
+        int first = Integer.MAX_VALUE;
+        int secondID = -1;
+        int second = Integer.MAX_VALUE;
+        for(int i = 0;i < nums.length;++i) {
+            if(nums[i] < first) {
+                if(first < second) {
+                    second = first;
+                    secondID = firstID;
+                }
+                first = nums[i];
+                firstID = i;
+            } else if(nums[i] < second) {
+                second = nums[i];
+                secondID = i;
+            }    
+        }
+        return new int[]{firstID, first, secondID, second};
+    }
+    
+    public int minCostII(int[][] costs) {
+        int n = costs.length;
+        if(n == 0) return 0;
+        int k = costs[0].length;
+        if(k == 0) return 0;
+        if(n >= 2 && k < 2) return 0;
+        
+        int[] opt = new int[k];
+        for(int i = 0;i < k;++i) opt[i] = costs[0][i];
+        int[] cur = new int[k];
+        for(int i = 1;i < n;++i) {
+            int[] firstSecond = getFirstSecondMin(opt);   
+            for(int j = 0;j < k;++j) {
+                if(firstSecond[0] != j) cur[j] = opt[firstSecond[0]] + costs[i][j];
+                else cur[j] = opt[firstSecond[2]] + costs[i][j];
+            }
+            for(int j = 0;j < k;++j) opt[j] = cur[j];
+        }
+        
+        int ret = Integer.MAX_VALUE;
+        for(int i = 0;i < k;++i) ret = Math.min(opt[i], ret);
+        return ret;
+    }
+}
