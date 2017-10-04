@@ -36,3 +36,30 @@ public class Solution {
         return isMatch(p, 0, s, 0);
     }
 }
+
+/////////
+class Solution {
+    private boolean isMatch(String s, int sIndex, String p, int pIndex) {
+        if(sIndex == s.length() && pIndex == p.length()) return true;
+        
+        if(pIndex + 1 < p.length() && p.charAt(pIndex + 1) == '*') {
+            if(isMatch(s, sIndex, p, pIndex + 2)) return true;
+            
+            if(sIndex < s.length() && (s.charAt(sIndex) == p.charAt(pIndex) || p.charAt(pIndex) == '.')) {
+                return isMatch(s, sIndex + 1, p, pIndex);
+            }
+        } 
+        
+        if(sIndex >= s.length() || pIndex >= p.length()) return false;
+        if(s.charAt(sIndex) == p.charAt(pIndex) || p.charAt(pIndex) == '.') {
+            return isMatch(s, sIndex + 1, p, pIndex + 1);
+        }
+        return false;
+    }
+    
+    public boolean isMatch(String s, String p) {
+        if(s == null && p == null) return true;
+        if(s.length() == 0 && p.length() == 0) return true;
+        return isMatch(s, 0, p, 0);
+    }
+}
