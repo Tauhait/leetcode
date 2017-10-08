@@ -47,3 +47,45 @@ public class Solution {
         return dumpHead.next;
     }
 }
+
+/////// Iterator
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode(int x) { val = x; }
+ * }
+ */
+class Solution implements Iterator<ListNode> {
+    PriorityQueue<ListNode> pq = new PriorityQueue<>((a, b) -> a .val - b.val);
+    
+    public ListNode mergeKLists(ListNode[] lists) {
+        for(int i = 0;i < lists.length;++i) {
+            if(lists[i] != null) {
+                pq.add(lists[i]);
+            }
+        }
+        
+        ListNode dumpHead = new ListNode(-1);
+        ListNode p = dumpHead;
+        while(hasNext()) {
+            p.next = next();
+            p = p.next;
+        }
+        return dumpHead.next;
+    }
+    
+    @Override
+    public boolean hasNext() {
+        return !pq.isEmpty();
+    }
+    
+    @Override
+    public ListNode next() {
+        ListNode front = pq.poll();
+        if(front.next != null)
+            pq.add(front.next);
+        return front;
+    }
+}

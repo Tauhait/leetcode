@@ -31,6 +31,7 @@
 |Best Time to Buy and Sell Stock  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Best\%20Time\%20to\%20Buy\%20and\%20Sell\%20Stock.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Best\%20Time\%20to\%20Buy\%20and\%20Sell\%20Stock.java) | []()|
 |Best Time to Buy and Sell Stock II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Best\%20Time\%20to\%20Buy\%20and\%20Sell\%20Stock\%20II.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Best\%20Time\%20to\%20Buy\%20and\%20Sell\%20Stock\%20II.java) | []()|
 |Best Time to Buy and Sell Stock with Cooldown  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Best\%20Time\%20to\%20Buy\%20and\%20Sell\%20Stock\%20with\%20Cooldown.java) | []()|
+|Binary Number with Alternating Bits  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Binary\%20Number\%20with\%20Alternating\%20Bits.java) | []()|
 |Binary Search Tree Iterator  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Binary\%20Search\%20Tree\%20Iterator.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Binary\%20Search\%20Tree\%20Iterator.java) | []()|
 |Binary Tree Inorder Traversal  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Binary\%20Tree\%20Inorder\%20Traversal.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Binary\%20Tree\%20Inorder\%20Traversal.java) | []()|
 |Binary Tree Level Order Traversal  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Binary\%20Tree\%20Level\%20Order\%20Traversal.cpp) | []() | []()|
@@ -217,6 +218,7 @@
 |Majority Element II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Majority\%20Element\%20II.cpp) | []() | []()|
 |Map Sum Pairs  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Map\%20Sum\%20Pairs.java) | []()|
 |Matchsticks to Square  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Matchsticks\%20to\%20Square.java) | []()|
+|Max Area of Island  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Max\%20Area\%20of\%20Island.java) | []()|
 |Max Consecutive Ones II  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Max\%20Consecutive\%20Ones\%20II.java) | []()|
 |Max Points on a Line  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Max\%20Points\%20on\%20a\%20Line.cpp) | []() | []()|
 |Maximal Rectangle  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Maximal\%20Rectangle.cpp) | []() | []()|
@@ -247,6 +249,7 @@
 |Minimum Factorization  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Minimum\%20Factorization.java) | []()|
 |Minimum Genetic Mutation  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Minimum\%20Genetic\%20Mutation.cpp) | []() | []()|
 |Minimum Index Sum of Two Lists  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Minimum\%20Index\%20Sum\%20of\%20Two\%20Lists.java) | []()|
+|Minimum Number of Arrows to Burst Balloons  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Minimum\%20Number\%20of\%20Arrows\%20to\%20Burst\%20Balloons.java) | []()|
 |Minimum Path Sum  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Minimum\%20Path\%20Sum.cpp) | []() | []()|
 |Minimum Size Subarray Sum  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Minimum\%20Size\%20Subarray\%20Sum.cpp) | []() | []()|
 |Minimum Time Difference  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Minimum\%20Time\%20Difference.java) | []()|
@@ -268,6 +271,7 @@
 |Nth Digit  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Nth\%20Digit.java) | []()|
 |Number of 1 Bits  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Number\%20of\%201\%20Bits.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Number\%20of\%201\%20Bits.java) | []()|
 |Number of Connected Components in an Undirected Graph  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Number\%20of\%20Connected\%20Components\%20in\%20an\%20Undirected\%20Graph.cpp) | []() | []()|
+|Number of Distinct Islands  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Number\%20of\%20Distinct\%20Islands.java) | []()|
 |Number of Islands  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Number\%20of\%20Islands.cpp) | []() | []()|
 |Number of Islands II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Number\%20of\%20Islands\%20II.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Number\%20of\%20Islands\%20II.java) | []()|
 |Number of Longest Increasing Subsequence  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Number\%20of\%20Longest\%20Increasing\%20Subsequence.java) | []()|
