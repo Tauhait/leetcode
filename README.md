@@ -120,15 +120,15 @@
 |Excel Sheet Column Number  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Excel\%20Sheet\%20Column\%20Number.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Excel\%20Sheet\%20Column\%20Number.java) | []()|
 |Excel Sheet Column Title  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Excel\%20Sheet\%20Column\%20Title.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Excel\%20Sheet\%20Column\%20Title.java) | []()|
 |Exclusive Time of Functions  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Exclusive\%20Time\%20of\%20Functions.java) | []()|
-|Factor Combinations  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Factor\%20Combinations.cpp) | []() | []()|
+|Factor Combinations  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Factor\%20Combinations.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Factor\%20Combinations.java) | []()|
 |Factorial Trailing Zeroes  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Factorial\%20Trailing\%20Zeroes.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Factorial\%20Trailing\%20Zeroes.java) | []()|
 |Find Duplicate File in System  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Find\%20Duplicate\%20File\%20in\%20System.java) | []()|
 |Find Duplicate Subtrees  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Find\%20Duplicate\%20Subtrees.java) | []()|
 |Find K Closest Elements  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Find\%20K\%20Closest\%20Elements.java) | []()|
 |Find K Pairs with Smallest Sums  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Find\%20K\%20Pairs\%20with\%20Smallest\%20Sums.java) | []()|
 |Find Median from Data Stream  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Find\%20Median\%20from\%20Data\%20Stream.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Find\%20Median\%20from\%20Data\%20Stream.java) | []()|
-|Find Minimum in Rotated Sorted Array  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Find\%20Minimum\%20in\%20Rotated\%20Sorted\%20Array.cpp) | []() | []()|
-|Find Minimum in Rotated Sorted Array II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Find\%20Minimum\%20in\%20Rotated\%20Sorted\%20Array\%20II.cpp) | []() | []()|
+|Find Minimum in Rotated Sorted Array  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Find\%20Minimum\%20in\%20Rotated\%20Sorted\%20Array.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Find\%20Minimum\%20in\%20Rotated\%20Sorted\%20Array.java) | []()|
+|Find Minimum in Rotated Sorted Array II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Find\%20Minimum\%20in\%20Rotated\%20Sorted\%20Array\%20II.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Find\%20Minimum\%20in\%20Rotated\%20Sorted\%20Array\%20II.java) | []()|
 |Find Peak Element  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Find\%20Peak\%20Element.cpp) | []() | []()|
 |Find Permutation  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Find\%20Permutation.java) | []()|
 |Find the Celebrity  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Find\%20the\%20Celebrity.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Find\%20the\%20Celebrity.java) | []()|
@@ -245,6 +245,7 @@
 |Merge k Sorted Lists  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Merge\%20k\%20Sorted\%20Lists.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Merge\%20k\%20Sorted\%20Lists.java) | []()|
 |Min Stack  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Min\%20Stack.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Min\%20Stack.java) | []()|
 |Minesweeper  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Minesweeper.java) | []()|
+|Minimum ASCII Delete Sum for Two Strings  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Minimum\%20ASCII\%20Delete\%20Sum\%20for\%20Two\%20Strings.java) | []()|
 |Minimum Depth of Binary Tree  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Minimum\%20Depth\%20of\%20Binary\%20Tree.cpp) | []() | []()|
 |Minimum Factorization  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Minimum\%20Factorization.java) | []()|
 |Minimum Genetic Mutation  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Minimum\%20Genetic\%20Mutation.cpp) | []() | []()|
@@ -335,6 +336,7 @@
 |Repeated DNA Sequences  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Repeated\%20DNA\%20Sequences.cpp) | []() | []()|
 |Replace Words  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Replace\%20Words.java) | []()|
 |Reshape the Matrix  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Reshape\%20the\%20Matrix.java) | []()|
+|Restore IP Addresses  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Restore\%20IP\%20Addresses.java) | []()|
 |Reverse Bits  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Reverse\%20Bits.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Reverse\%20Bits.java) | []()|
 |Reverse Integer  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Reverse\%20Integer.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Reverse\%20Integer.java) | []()|
 |Reverse Linked List  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Reverse\%20Linked\%20List.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Reverse\%20Linked\%20List.java) | []()|
