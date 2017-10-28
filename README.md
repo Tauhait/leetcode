@@ -2,6 +2,7 @@
 
 |Problem | C/C++ | Java | Python3 |
 |:----------|:-------------:|:------:|:------:|
+| Longest Substring with At Most K Distinct Characters  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/\%20Longest\%20Substring\%20with\%20At\%20Most\%20K\%20Distinct\%20Characters.java) | []()|
 |01 Matrix  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/01\%20Matrix.java) | []()|
 |2 Keys Keyboard  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/2\%20Keys\%20Keyboard.java) | []()|
 |3Sum  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/3Sum.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/3Sum.java) | []()|
@@ -38,7 +39,7 @@
 |Binary Tree Level Order Traversal II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Binary\%20Tree\%20Level\%20Order\%20Traversal\%20II.cpp) | []() | []()|
 |Binary Tree Longest Consecutive Sequence  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Binary\%20Tree\%20Longest\%20Consecutive\%20Sequence.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Binary\%20Tree\%20Longest\%20Consecutive\%20Sequence.java) | []()|
 |Binary Tree Longest Consecutive Sequence II  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Binary\%20Tree\%20Longest\%20Consecutive\%20Sequence\%20II.java) | []()|
-|Binary Tree Maximum Path Sum  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Binary\%20Tree\%20Maximum\%20Path\%20Sum.cpp) | []() | []()|
+|Binary Tree Maximum Path Sum  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Binary\%20Tree\%20Maximum\%20Path\%20Sum.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Binary\%20Tree\%20Maximum\%20Path\%20Sum.java) | []()|
 |Binary Tree Paths  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Binary\%20Tree\%20Paths.cpp) | []() | []()|
 |Binary Tree Postorder Traversal  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Binary\%20Tree\%20Postorder\%20Traversal.cpp) | []() | []()|
 |Binary Tree Preorder Traversal  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Binary\%20Tree\%20Preorder\%20Traversal.cpp) | []() | []()|
@@ -120,6 +121,7 @@
 |Excel Sheet Column Number  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Excel\%20Sheet\%20Column\%20Number.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Excel\%20Sheet\%20Column\%20Number.java) | []()|
 |Excel Sheet Column Title  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Excel\%20Sheet\%20Column\%20Title.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Excel\%20Sheet\%20Column\%20Title.java) | []()|
 |Exclusive Time of Functions  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Exclusive\%20Time\%20of\%20Functions.java) | []()|
+|Expression Add Operators  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Expression\%20Add\%20Operators.java) | []()|
 |Factor Combinations  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Factor\%20Combinations.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Factor\%20Combinations.java) | []()|
 |Factorial Trailing Zeroes  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Factorial\%20Trailing\%20Zeroes.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Factorial\%20Trailing\%20Zeroes.java) | []()|
 |Find Duplicate File in System  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Find\%20Duplicate\%20File\%20in\%20System.java) | []()|
@@ -164,7 +166,7 @@
 |Implement Magic Dictionary  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Implement\%20Magic\%20Dictionary.java) | []()|
 |Implement Queue using Stacks  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Implement\%20Queue\%20using\%20Stacks.cpp) | []() | []()|
 |Implement Stack using Queues  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Implement\%20Stack\%20using\%20Queues.cpp) | []() | []()|
-|Implement Trie (Prefix Tree)  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Implement\%20Trie\%20(Prefix\%20Tree).cpp) | []() | []()|
+|Implement Trie (Prefix Tree)  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Implement\%20Trie\%20(Prefix\%20Tree).cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Implement\%20Trie\%20(Prefix\%20Tree).java) | []()|
 |Implement strStr()  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Implement\%20strStr().cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Implement\%20strStr().java) | []()|
 |Inorder Successor in BST  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Inorder\%20Successor\%20in\%20BST.cpp) | []() | []()|
 |Insert Delete GetRandom O(1)  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Insert\%20Delete\%20GetRandom\%20O(1).java) | []()|
@@ -212,7 +214,7 @@
 |Longest Univalue Path  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Longest\%20Univalue\%20Path.java) | []()|
 |Longest Valid Parentheses  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Longest\%20Valid\%20Parentheses.cpp) | []() | []()|
 |Lowest Common Ancestor of a Binary Search Tree  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Lowest\%20Common\%20Ancestor\%20of\%20a\%20Binary\%20Search\%20Tree.cpp) | []() | []()|
-|Lowest Common Ancestor of a Binary Tree  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Lowest\%20Common\%20Ancestor\%20of\%20a\%20Binary\%20Tree.cpp) | []() | []()|
+|Lowest Common Ancestor of a Binary Tree  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Lowest\%20Common\%20Ancestor\%20of\%20a\%20Binary\%20Tree.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Lowest\%20Common\%20Ancestor\%20of\%20a\%20Binary\%20Tree.java) | []()|
 |Magical String  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Magical\%20String.java) | []()|
 |Majority Element  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Majority\%20Element.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Majority\%20Element.java) | []()|
 |Majority Element II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Majority\%20Element\%20II.cpp) | []() | []()|
@@ -322,6 +324,7 @@
 |Read N Characters Given Read4  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Read\%20N\%20Characters\%20Given\%20Read4.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Read\%20N\%20Characters\%20Given\%20Read4.java) | []()|
 |Read N Characters Given Read4 II - Call multiple times  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Read\%20N\%20Characters\%20Given\%20Read4\%20II\%20-\%20Call\%20multiple\%20times.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Read\%20N\%20Characters\%20Given\%20Read4\%20II\%20-\%20Call\%20multiple\%20times.java) | []()|
 |Rectangle Area  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Rectangle\%20Area.cpp) | []() | []()|
+|Redundant Connection  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Redundant\%20Connection.java) | []()|
 |Regular Expression Matching  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Regular\%20Expression\%20Matching.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Regular\%20Expression\%20Matching.java) | []()|
 |Remove 9  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Remove\%209.java) | []()|
 |Remove Duplicates from Sorted Array  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Remove\%20Duplicates\%20from\%20Sorted\%20Array.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Remove\%20Duplicates\%20from\%20Sorted\%20Array.java) | []()|
@@ -329,7 +332,7 @@
 |Remove Duplicates from Sorted List  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Remove\%20Duplicates\%20from\%20Sorted\%20List.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Remove\%20Duplicates\%20from\%20Sorted\%20List.java) | []()|
 |Remove Duplicates from Sorted List II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Remove\%20Duplicates\%20from\%20Sorted\%20List\%20II.cpp) | []() | []()|
 |Remove Element  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Remove\%20Element.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Remove\%20Element.java) | []()|
-|Remove Invalid Parentheses  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Remove\%20Invalid\%20Parentheses.cpp) | []() | []()|
+|Remove Invalid Parentheses  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Remove\%20Invalid\%20Parentheses.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Remove\%20Invalid\%20Parentheses.java) | []()|
 |Remove Linked List Elements  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Remove\%20Linked\%20List\%20Elements.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Remove\%20Linked\%20List\%20Elements.java) | []()|
 |Remove Nth Node From End of List  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Remove\%20Nth\%20Node\%20From\%20End\%20of\%20List.cpp) | []() | []()|
 |Reorder List  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Reorder\%20List.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Reorder\%20List.java) | []()|
