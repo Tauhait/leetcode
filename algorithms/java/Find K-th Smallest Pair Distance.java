@@ -52,6 +52,7 @@ class Solution {
     }
     
     private int binarySearch(int[] nums, int n, int i, int b) {
+       //  @return number of elements less and equals to b
         // number of distance in row i is n - i - 1
         int L = 0, R = n - i - 1; 
         while(L < R) {
