@@ -62,3 +62,33 @@ public class Solution {
         return sb.toString();            
     }
 }
+
+
+////////
+public class Solution {
+    private final static String[] LESS_THAN_20 = new String[]{
+        "", "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine", "Ten",
+        "Eleven", "Twelve", "Thirteen", "Fourteen", "Fifteen", "Sixteen", "Seventeen", "Eighteen", "Nineteen"};
+    private final static String[] TENS = new String[]{
+        "", "Ten", "Twenty", "Thirty", "Forty", "Fifty", "Sixty", "Seventy", "Eighty", "Ninety"};
+    private final static String[] THOUSANDS = new String[]{"", "Thousand", "Million", "Billion"};
+      
+    public String getNum(int num) {
+        if(num < 20) return LESS_THAN_20[num];
+        if(num >= 100) return (LESS_THAN_20[num / 100] + " Hundred " + getNum(num % 100)).trim();
+        else return (TENS[num / 10] + " " + LESS_THAN_20[num % 10]).trim();
+    }
+    
+    public String numberToWords(int num) {
+        if(num == 0) return "Zero";
+                
+        StringBuilder sb = new StringBuilder();
+        for(int i = 0;i < 4 && num != 0;++i) {
+            int n = num % 1000;
+            num /= 1000;
+            if(n != 0)
+                sb.insert(0, " " + getNum(n) + " " + THOUSANDS[i]);
+        }
+        return sb.toString().trim();            
+    }
+}
