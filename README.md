@@ -2,6 +2,7 @@
 
 |Problem | C/C++ | Java | Python3 |
 |:----------|:-------------:|:------:|:------:|
+|  Inorder Successor in BST  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/\%20\%20Inorder\%20Successor\%20in\%20BST.java) | []()|
 | Longest Substring with At Most K Distinct Characters  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/\%20Longest\%20Substring\%20with\%20At\%20Most\%20K\%20Distinct\%20Characters.java) | []()|
 |01 Matrix  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/01\%20Matrix.java) | []()|
 |1-bit and 2-bit Characters  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/1-bit\%20and\%202-bit\%20Characters.java) | []()|
@@ -145,7 +146,7 @@
 |First Unique Character in a String  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/First\%20Unique\%20Character\%20in\%20a\%20String.java) | []()|
 |Fizz Buzz  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Fizz\%20Buzz.java) | []()|
 |Flatten 2D Vector  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Flatten\%202D\%20Vector.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Flatten\%202D\%20Vector.java) | []()|
-|Flatten Binary Tree to Linked List  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Flatten\%20Binary\%20Tree\%20to\%20Linked\%20List.cpp) | []() | []()|
+|Flatten Binary Tree to Linked List  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Flatten\%20Binary\%20Tree\%20to\%20Linked\%20List.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Flatten\%20Binary\%20Tree\%20to\%20Linked\%20List.java) | []()|
 |Flatten Nested List Iterator  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Flatten\%20Nested\%20List\%20Iterator.java) | []()|
 |Flip Game  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Flip\%20Game.cpp) | []() | []()|
 |Flip Game II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Flip\%20Game\%20II.cpp) | []() | []()|

@@ -82,3 +82,53 @@ public class Solution {
         return ret;
     }
 }
+
+
+/////////////////////////////////////
+class Solution {
+    private void dfs(String num, int index, int target, StringBuilder sb, int preValue, int preEle, List<String> ret) {
+        if (index == num.length()) {
+            if (preValue == target) ret.add(sb.toString());
+            return;
+        }
+
+        int len = sb.length();
+        for (int i = index + 1; i <= num.length(); ++i) {
+            String n = num.substring(index, i);
+            if (n.length() > 1 && n.charAt(0) == '0') continue;
+            int cur = 0;
+            try {
+                cur = Integer.parseInt(n);
+            } catch (NumberFormatException e ) {
+                continue;
+            }
+           
+            if (len == 0) {
+                sb.append(cur);
+                dfs(num, i, target, sb, cur, cur, ret);
+                sb.setLength(len);
+            } else {
+                //add
+                sb.append("+").append(cur);
+                dfs(num, i, target, sb, preValue + cur, cur, ret);
+                sb.setLength(len);
+
+                // substract
+                sb.append("-").append(cur);
+                dfs(num, i, target, sb, preValue - cur, -cur, ret);
+                sb.setLength(len);
+
+                // multiple
+                sb.append("*").append(cur);
+                dfs(num, i, target, sb, preValue - preEle + preEle * cur, preEle * cur, ret);
+                sb.setLength(len);
+            }
+        }
+    }
+
+    public List<String> addOperators(String num, int target) {
+        List<String> ret = new ArrayList<>();
+        dfs(num, 0, target, new StringBuilder(), 0, 0, ret);
+        return ret;
+    }
+}
