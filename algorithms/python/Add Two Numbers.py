@@ -22,14 +22,14 @@ class Solution(object):
             if l2 != None:
                 s += l2.val
                 l2 = l2.next
-            
+
             node = ListNode(s % 10)
             c = s // 10
             p.next = node
             p = p.next
-        
+
         if c != 0:
             node = ListNode(c)
             p.next = node;
-        
+
         return head.next

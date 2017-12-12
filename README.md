@@ -2,8 +2,6 @@
 
 |Problem | C/C++ | Java | Python3 |
 |:----------|:-------------:|:------:|:------:|
-|  Inorder Successor in BST  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/\%20\%20Inorder\%20Successor\%20in\%20BST.java) | []()|
-| Longest Substring with At Most K Distinct Characters  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/\%20Longest\%20Substring\%20with\%20At\%20Most\%20K\%20Distinct\%20Characters.java) | []()|
 |01 Matrix  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/01\%20Matrix.java) | []()|
 |1-bit and 2-bit Characters  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/1-bit\%20and\%202-bit\%20Characters.java) | []()|
 |2 Keys Keyboard  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/2\%20Keys\%20Keyboard.java) | []()|
@@ -62,6 +60,7 @@
 |Clone Graph  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Clone\%20Graph.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Clone\%20Graph.java) | []()|
 |Closest Binary Search Tree Value  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Closest\%20Binary\%20Search\%20Tree\%20Value.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Closest\%20Binary\%20Search\%20Tree\%20Value.java) | []()|
 |Closest Binary Search Tree Value II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Closest\%20Binary\%20Search\%20Tree\%20Value\%20II.cpp) | []() | []()|
+|Closest Leaf in a Binary Tree  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Closest\%20Leaf\%20in\%20a\%20Binary\%20Tree.java) | []()|
 |Coin Change  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Coin\%20Change.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Coin\%20Change.java) | []()|
 |Coin Change 2  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Coin\%20Change\%202.java) | []()|
 |Coin Path  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Coin\%20Path.java) | []()|
@@ -136,6 +135,7 @@
 |Find Minimum in Rotated Sorted Array II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Find\%20Minimum\%20in\%20Rotated\%20Sorted\%20Array\%20II.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Find\%20Minimum\%20in\%20Rotated\%20Sorted\%20Array\%20II.java) | []()|
 |Find Peak Element  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Find\%20Peak\%20Element.cpp) | []() | []()|
 |Find Permutation  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Find\%20Permutation.java) | []()|
+|Find Smallest Letter Greater Than Target  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Find\%20Smallest\%20Letter\%20Greater\%20Than\%20Target.java) | []()|
 |Find the Celebrity  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Find\%20the\%20Celebrity.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Find\%20the\%20Celebrity.java) | []()|
 |Find the Derangement of An Array  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Find\%20the\%20Derangement\%20of\%20An\%20Array.java) | []()|
 |Find the Difference  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Find\%20the\%20Difference.java) | []()|
@@ -171,7 +171,7 @@
 |Implement Stack using Queues  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Implement\%20Stack\%20using\%20Queues.cpp) | []() | []()|
 |Implement Trie (Prefix Tree)  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Implement\%20Trie\%20(Prefix\%20Tree).cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Implement\%20Trie\%20(Prefix\%20Tree).java) | []()|
 |Implement strStr()  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Implement\%20strStr().cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Implement\%20strStr().java) | []()|
-|Inorder Successor in BST  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Inorder\%20Successor\%20in\%20BST.cpp) | []() | []()|
+|Inorder Successor in BST  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Inorder\%20Successor\%20in\%20BST.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Inorder\%20Successor\%20in\%20BST.java) | []()|
 |Insert Delete GetRandom O(1)  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Insert\%20Delete\%20GetRandom\%20O(1).java) | []()|
 |Insert Delete GetRandom O(1) - Duplicates allowed  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Insert\%20Delete\%20GetRandom\%20O(1)\%20-\%20Duplicates\%20allowed.java) | []()|
 |Insert Interval  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Insert\%20Interval.cpp) | []() | []()|
@@ -271,6 +271,7 @@
 |N-Queens II  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/N-Queens\%20II.cpp) | []() | []()|
 |Nested List Weight Sum  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Nested\%20List\%20Weight\%20Sum.java) | []()|
 |Nested List Weight Sum II  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Nested\%20List\%20Weight\%20Sum\%20II.java) | []()|
+|Network Delay Time  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Network\%20Delay\%20Time.java) | []()|
 |Next Greater Element III  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Next\%20Greater\%20Element\%20III.java) | []()|
 |Next Permutation  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Next\%20Permutation.cpp) | []() | []()|
 |Nim Game  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Nim\%20Game.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Nim\%20Game.java) | []()|
