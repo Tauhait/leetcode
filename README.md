@@ -249,6 +249,7 @@
 |Merge Two Binary Trees  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Merge\%20Two\%20Binary\%20Trees.java) | []()|
 |Merge Two Sorted Lists  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Merge\%20Two\%20Sorted\%20Lists.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Merge\%20Two\%20Sorted\%20Lists.java) | []()|
 |Merge k Sorted Lists  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Merge\%20k\%20Sorted\%20Lists.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Merge\%20k\%20Sorted\%20Lists.java) | []()|
+|Min Cost Climbing Stairs  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Min\%20Cost\%20Climbing\%20Stairs.java) | []()|
 |Min Stack  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Min\%20Stack.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Min\%20Stack.java) | []()|
 |Minesweeper  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Minesweeper.java) | []()|
 |Minimum ASCII Delete Sum for Two Strings  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Minimum\%20ASCII\%20Delete\%20Sum\%20for\%20Two\%20Strings.java) | []()|
@@ -277,6 +278,7 @@
 |Nim Game  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Nim\%20Game.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Nim\%20Game.java) | []()|
 |Non-negative Integers without Consecutive Ones  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Non-negative\%20Integers\%20without\%20Consecutive\%20Ones.java) | []()|
 |Nth Digit  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Nth\%20Digit.java) | []()|
+|Number Of Corner Rectangles  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Number\%20Of\%20Corner\%20Rectangles.java) | []()|
 |Number of 1 Bits  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Number\%20of\%201\%20Bits.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Number\%20of\%201\%20Bits.java) | []()|
 |Number of Connected Components in an Undirected Graph  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Number\%20of\%20Connected\%20Components\%20in\%20an\%20Undirected\%20Graph.cpp) | []() | []()|
 |Number of Distinct Islands  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Number\%20of\%20Distinct\%20Islands.java) | []()|
@@ -373,6 +375,7 @@
 |Set Matrix Zeroes  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Set\%20Matrix\%20Zeroes.cpp) | []() | []()|
 |Set Mismatch  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Set\%20Mismatch.java) | []()|
 |Shopping Offers  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Shopping\%20Offers.java) | []()|
+|Shortest Completing Word  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Shortest\%20Completing\%20Word.java) | []()|
 |Shortest Distance from All Buildings  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Shortest\%20Distance\%20from\%20All\%20Buildings.java) | []()|
 |Shortest Unsorted Continuous Subarray  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Shortest\%20Unsorted\%20Continuous\%20Subarray.java) | []()|
 |Shortest Word Distance  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Shortest\%20Word\%20Distance.cpp) | []() | []()|
