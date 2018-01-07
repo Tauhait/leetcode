@@ -51,6 +51,7 @@
 |Binary Tree Zigzag Level Order Traversal  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Binary\%20Tree\%20Zigzag\%20Level\%20Order\%20Traversal.cpp) | []() | []()|
 |Binary Watch  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Binary\%20Watch.java) | []()|
 |Bitwise AND of Numbers Range  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Bitwise\%20AND\%20of\%20Numbers\%20Range.cpp) | []() | []()|
+|Bold Words in String  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Bold\%20Words\%20in\%20String.java) | []()|
 |Boundary of Binary Tree  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Boundary\%20of\%20Binary\%20Tree.java) | []()|
 |Bulb Switcher  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Bulb\%20Switcher.cpp) | []() | []()|
 |Bulls and Cows  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Bulls\%20and\%20Cows.cpp) | []() | []()|
@@ -114,6 +115,7 @@
 |Divide Two Integers  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Divide\%20Two\%20Integers.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Divide\%20Two\%20Integers.java) | []()|
 |Dota2 Senate  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Dota2\%20Senate.java) | []()|
 |Edit Distance  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Edit\%20Distance.cpp) | []() | []()|
+|Employee Free Time  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Employee\%20Free\%20Time.java) | []()|
 |Employee Importance  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Employee\%20Importance.java) | []()|
 |Encode and Decode Strings  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Encode\%20and\%20Decode\%20Strings.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Encode\%20and\%20Decode\%20Strings.java) | []()|
 |Encode and Decode TinyURL  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Encode\%20and\%20Decode\%20TinyURL.java) | []()|
@@ -125,6 +127,7 @@
 |Expression Add Operators  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Expression\%20Add\%20Operators.java) | []()|
 |Factor Combinations  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Factor\%20Combinations.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Factor\%20Combinations.java) | []()|
 |Factorial Trailing Zeroes  | [cpp](https://github.com/acgtun/leetcode/tree/master/algorithms/cpp/Factorial\%20Trailing\%20Zeroes.cpp) | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Factorial\%20Trailing\%20Zeroes.java) | []()|
+|Find Anagram Mappings  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Find\%20Anagram\%20Mappings.java) | []()|
 |Find Duplicate File in System  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Find\%20Duplicate\%20File\%20in\%20System.java) | []()|
 |Find Duplicate Subtrees  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Find\%20Duplicate\%20Subtrees.java) | []()|
 |Find K Closest Elements  | []() | [java](https://github.com/acgtun/leetcode/tree/master/algorithms/java/Find\%20K\%20Closest\%20Elements.java) | []()|
