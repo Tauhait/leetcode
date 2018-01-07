@@ -19,10 +19,10 @@ if __name__ == '__main__':
                 if file == '.DS_Store':
                     continue
                 problem = file.replace('.' + langs[lang], ' ')
-                solutions[lang][problem] = os.path.join(link, dir, file).replace(' ', '\%20')
+                solutions[lang][problem] = os.path.join(link, dir, file).replace(' ', '%20')
                 print(lang)
                 print(problem)
-                print(os.path.join(link, lang, file).replace(' ', '\%20'))
+                print(os.path.join(link, lang, file).replace(' ', '%20'))
                 problems.add(file.replace('.' + langs[lang], ' '))
 
     problems = list(problems)
