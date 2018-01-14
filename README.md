@@ -92,6 +92,7 @@
 |Count of Range Sum  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Count%20of%20Range%20Sum.java) | []()|
 |Count of Smaller Numbers After Self  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Count%20of%20Smaller%20Numbers%20After%20Self.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Count%20of%20Smaller%20Numbers%20After%20Self.java) | []()|
 |Counting Bits  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Counting%20Bits.java) | []()|
+|Couples Holding Hands  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Couples%20Holding%20Hands.java) | []()|
 |Course Schedule  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Course%20Schedule.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Course%20Schedule.java) | []()|
 |Course Schedule II  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Course%20Schedule%20II.cpp) | []() | []()|
 |Course Schedule III  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Course%20Schedule%20III.java) | []()|
@@ -200,6 +201,7 @@
 |LRU Cache  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/LRU%20Cache.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/LRU%20Cache.java) | []()|
 |Largest BST Subtree  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Largest%20BST%20Subtree.cpp) | []() | []()|
 |Largest Number  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Largest%20Number.cpp) | []() | []()|
+|Largest Plus Sign  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Largest%20Plus%20Sign.java) | []()|
 |Largest Rectangle in Histogram  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Largest%20Rectangle%20in%20Histogram.cpp) | []() | []()|
 |Length of Last Word  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Length%20of%20Last%20Word.cpp) | []() | []()|
 |Letter Combinations of a Phone Number  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Letter%20Combinations%20of%20a%20Phone%20Number.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Letter%20Combinations%20of%20a%20Phone%20Number.java) | []()|
@@ -304,6 +306,7 @@
 |Palindrome Permutation  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Palindrome%20Permutation.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Palindrome%20Permutation.java) | []()|
 |Palindrome Permutation II  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Palindrome%20Permutation%20II.cpp) | []() | []()|
 |Palindromic Substrings  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Palindromic%20Substrings.java) | []()|
+|Partition Labels  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Partition%20Labels.java) | []()|
 |Partition List  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Partition%20List.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Partition%20List.java) | []()|
 |Pascal's Triangle  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Pascal's%20Triangle.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Pascal's%20Triangle.java) | []()|
 |Pascal's Triangle II  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Pascal's%20Triangle%20II.cpp) | []() | []()|
@@ -324,6 +327,7 @@
 |Pow(x, n)  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Pow(x,%20n).cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Pow(x,%20n).java) | []()|
 |Power of Three  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Power%20of%20Three.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Power%20of%20Three.java) | []()|
 |Power of Two  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Power%20of%20Two.cpp) | []() | []()|
+|Prime Number of Set Bits in Binary Representation  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation.java) | []()|
 |Print Binary Tree  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Print%20Binary%20Tree.java) | []()|
 |Product of Array Except Self  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Product%20of%20Array%20Except%20Self.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Product%20of%20Array%20Except%20Self.java) | []()|
 |Random Pick Index  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Random%20Pick%20Index.java) | []()|
