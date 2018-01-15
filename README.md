@@ -1,4 +1,5 @@
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4b1151a2ceb949eaa46c000dc040bfd8)](https://www.codacy.com/app/chenhaifeng88888/leetcode?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=acgtun/leetcode&amp;utm_campaign=Badge_Grade)### LeetCode Solutions [https://leetcode.com/problemset/algorithms/](https://leetcode.com/problemset/algorithms/)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4b1151a2ceb949eaa46c000dc040bfd8)](https://www.codacy.com/app/chenhaifeng88888/leetcode?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=acgtun/leetcode&amp;utm_campaign=Badge_Grade)
+### LeetCode Solutions [https://leetcode.com/problemset/algorithms/](https://leetcode.com/problemset/algorithms/)
 
 |Problem | C/C++ | Java | Python3 |
 |:----------|:-------------:|:------:|:------:|
