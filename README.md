@@ -231,6 +231,8 @@
 |Map Sum Pairs  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Map%20Sum%20Pairs.java) | []()|
 |Matchsticks to Square  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Matchsticks%20to%20Square.java) | []()|
 |Max Area of Island  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Max%20Area%20of%20Island.java) | []()|
+|Max Chunks To Make Sorted (ver. 1)  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Max%20Chunks%20To%20Make%20Sorted%20(ver.%201).java) | []()|
+|Max Chunks to Make Sorted (ver. 2)  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Max%20Chunks%20to%20Make%20Sorted%20(ver.%202).java) | []()|
 |Max Consecutive Ones II  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Max%20Consecutive%20Ones%20II.java) | []()|
 |Max Points on a Line  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Max%20Points%20on%20a%20Line.cpp) | []() | []()|
 |Maximal Rectangle  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Maximal%20Rectangle.cpp) | []() | []()|
@@ -354,6 +356,7 @@
 |Remove Linked List Elements  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Remove%20Linked%20List%20Elements.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Remove%20Linked%20List%20Elements.java) | []()|
 |Remove Nth Node From End of List  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Remove%20Nth%20Node%20From%20End%20of%20List.cpp) | []() | []()|
 |Reorder List  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Reorder%20List.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Reorder%20List.java) | []()|
+|Reorganize String  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Reorganize%20String.java) | []()|
 |Repeated DNA Sequences  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Repeated%20DNA%20Sequences.cpp) | []() | []()|
 |Replace Words  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Replace%20Words.java) | []()|
 |Reshape the Matrix  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Reshape%20the%20Matrix.java) | []()|
@@ -430,6 +433,7 @@
 |Task Scheduler  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Task%20Scheduler.java) | []()|
 |The Maze  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/The%20Maze.java) | []()|
 |The Skyline Problem  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/The%20Skyline%20Problem.cpp) | []() | []()|
+|Toeplitz Matrix  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Toeplitz%20Matrix.java) | []()|
 |Top K Frequent Elements  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Top%20K%20Frequent%20Elements.java) | []()|
 |Top K Frequent Words  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Top%20K%20Frequent%20Words.java) | []()|
 |Trapping Rain Water  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Trapping%20Rain%20Water.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Trapping%20Rain%20Water.java) | []()|
