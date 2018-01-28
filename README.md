@@ -161,6 +161,7 @@
 |Game of Life  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Game%20of%20Life.cpp) | []() | []()|
 |Gas Station  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Gas%20Station.cpp) | []() | []()|
 |Generate Parentheses  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Generate%20Parentheses.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Generate%20Parentheses.java) | []()|
+|Global and Local Inversions  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Global%20and%20Local%20Inversions.java) | []()|
 |Graph Valid Tree  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Graph%20Valid%20Tree.cpp) | []() | []()|
 |Group Anagrams  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Group%20Anagrams.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Group%20Anagrams.java) | []()|
 |Group Shifted Strings  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Group%20Shifted%20Strings.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Group%20Shifted%20Strings.java) | []()|
@@ -190,6 +191,7 @@
 |Invert Binary Tree  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Invert%20Binary%20Tree.cpp) | []() | []()|
 |Island Perimeter  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Island%20Perimeter.java) | []()|
 |Isomorphic Strings  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Isomorphic%20Strings.cpp) | []() | []()|
+|Jewels and Stones  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Jewels%20and%20Stones.java) | []()|
 |Judge Route Circle  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Judge%20Route%20Circle.java) | []()|
 |Jump Game  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Jump%20Game.cpp) | []() | []()|
 |Jump Game II  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Jump%20Game%20II.cpp) | []() | []()|
@@ -261,6 +263,7 @@
 |Min Cost Climbing Stairs  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Min%20Cost%20Climbing%20Stairs.java) | []()|
 |Min Stack  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Min%20Stack.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Min%20Stack.java) | []()|
 |Minesweeper  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Minesweeper.java) | []()|
+|Minimize Max Distance to Gas Station  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Minimize%20Max%20Distance%20to%20Gas%20Station.java) | []()|
 |Minimum ASCII Delete Sum for Two Strings  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Minimum%20ASCII%20Delete%20Sum%20for%20Two%20Strings.java) | []()|
 |Minimum Depth of Binary Tree  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Minimum%20Depth%20of%20Binary%20Tree.cpp) | []() | []()|
 |Minimum Factorization  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Minimum%20Factorization.java) | []()|
@@ -399,6 +402,7 @@
 |Single Number  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Single%20Number.java) | [python](https://github.com/acgtun/leetcode/blob/master/algorithms/python/Single%20Number.py)|
 |Single Number II  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Single%20Number%20II.cpp) | []() | []()|
 |Single Number III  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Single%20Number%20III.cpp) | []() | []()|
+|Sliding Puzzle  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Sliding%20Puzzle.java) | []()|
 |Sliding Window Median  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Sliding%20Window%20Median.java) | []()|
 |Smallest Range  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Smallest%20Range.java) | []()|
 |Smallest Rectangle Enclosing Black Pixels  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Smallest%20Rectangle%20Enclosing%20Black%20Pixels.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Smallest%20Rectangle%20Enclosing%20Black%20Pixels.java) | []()|
