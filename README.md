@@ -195,6 +195,7 @@
 |Judge Route Circle  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Judge%20Route%20Circle.java) | []()|
 |Jump Game  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Jump%20Game.cpp) | []() | []()|
 |Jump Game II  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Jump%20Game%20II.cpp) | []() | []()|
+|K Empty Slots  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/K%20Empty%20Slots.java) | []()|
 |K Inverse Pairs Array  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/K%20Inverse%20Pairs%20Array.java) | []()|
 |Kill Process  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Kill%20Process.java) | []()|
 |Knight Probability in Chessboard  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Knight%20Probability%20in%20Chessboard.java) | []()|
@@ -285,6 +286,7 @@
 |Nested List Weight Sum  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Nested%20List%20Weight%20Sum.java) | []()|
 |Nested List Weight Sum II  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Nested%20List%20Weight%20Sum%20II.java) | []()|
 |Network Delay Time  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Network%20Delay%20Time.java) | []()|
+|Next Closest Time  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Next%20Closest%20Time.java) | []()|
 |Next Greater Element III  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Next%20Greater%20Element%20III.java) | []()|
 |Next Permutation  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Next%20Permutation.cpp) | []() | []()|
 |Nim Game  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Nim%20Game.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Nim%20Game.java) | []()|
@@ -361,6 +363,7 @@
 |Reorder List  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Reorder%20List.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Reorder%20List.java) | []()|
 |Reorganize String  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Reorganize%20String.java) | []()|
 |Repeated DNA Sequences  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Repeated%20DNA%20Sequences.cpp) | []() | []()|
+|Repeated String Match  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Repeated%20String%20Match.java) | []()|
 |Replace Words  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Replace%20Words.java) | []()|
 |Reshape the Matrix  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Reshape%20the%20Matrix.java) | []()|
 |Restore IP Addresses  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Restore%20IP%20Addresses.java) | []()|
