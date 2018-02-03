@@ -20,3 +20,23 @@ public class Solution {
         }
     }
 }
+
+class Solution {
+    public int[] plusOne(int[] digits) {
+        int carry = 1;
+        List<Integer> plus = new ArrayList<>();
+        for(int i = digits.length - 1;i >= 0;--i) {
+            int s = digits[i] + carry;
+            plus.add(s % 10);
+            carry = s / 10;
+        }
+        if(carry != 0) plus.add(carry);
+        
+        Collections.reverse(plus);
+        int[] sum = new int[plus.size()];
+        for(int i = 0;i < plus.size();++i) {
+            sum[i] = plus.get(i);
+        }
+        return sum;
+    }
+}

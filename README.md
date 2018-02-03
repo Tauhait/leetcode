@@ -1,7 +1,5 @@
 ### LeetCode Solutions [https://leetcode.com/problemset/algorithms/](https://leetcode.com/problemset/algorithms/)
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4b1151a2ceb949eaa46c000dc040bfd8)](https://www.codacy.com/app/chenhaifeng88888/leetcode?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=acgtun/leetcode&amp;utm_campaign=Badge_Grade)
-
 |Problem | C/C++ | Java | Python3 |
 |:----------|:-------------:|:------:|:------:|
 |01 Matrix  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/01%20Matrix.java) | []()|
@@ -210,6 +208,7 @@
 |Largest Rectangle in Histogram  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Largest%20Rectangle%20in%20Histogram.cpp) | []() | []()|
 |Length of Last Word  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Length%20of%20Last%20Word.cpp) | []() | []()|
 |Letter Combinations of a Phone Number  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Letter%20Combinations%20of%20a%20Phone%20Number.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Letter%20Combinations%20of%20a%20Phone%20Number.java) | []()|
+|License Key Formatting  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/License%20Key%20Formatting.java) | []()|
 |Linked List Cycle  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Linked%20List%20Cycle.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Linked%20List%20Cycle.java) | []()|
 |Logger Rate Limiter  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Logger%20Rate%20Limiter.java) | []()|
 |Longest Common Prefix  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Longest%20Common%20Prefix.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Longest%20Common%20Prefix.java) | []()|
@@ -413,7 +412,7 @@
 |Sort Colors  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Sort%20Colors.cpp) | []() | []()|
 |Sort List  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Sort%20List.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Sort%20List.java) | []()|
 |Sort Transformed Array  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Sort%20Transformed%20Array.java) | []()|
-|Spiral Matrix  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Spiral%20Matrix.cpp) | []() | []()|
+|Spiral Matrix  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Spiral%20Matrix.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Spiral%20Matrix.java) | []()|
 |Spiral Matrix II  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Spiral%20Matrix%20II.cpp) | []() | []()|
 |Split Array into Consecutive Subsequences  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Split%20Array%20into%20Consecutive%20Subsequences.java) | []()|
 |Sqrt(x)  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Sqrt(x).cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Sqrt(x).java) | []()|

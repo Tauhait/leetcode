@@ -60,3 +60,26 @@ class Solution {
         return longest;
     }
 }
+
+////////////////////////
+class Solution {
+    public int lengthOfLongestSubstringKDistinct(String s, int k) {
+        if(k < 1 || s.isEmpty()) return 0;
+        int start = 0, longest = 0, contains = 0;
+        Map<Character, Integer> count = new HashMap<>();
+        for(int i = 0;i < s.length();++i) {
+            char ce = s.charAt(i);
+            count.put(ce, count.getOrDefault(ce, 0) + 1);
+            if(count.get(ce) == 1) contains++;
+            while(contains > k) {
+                char cs = s.charAt(start);
+                count.put(cs, count.get(cs) - 1);
+                start++;
+                if(count.get(cs) == 0) contains--;
+            }
+            if(contains <= k)
+                longest = Math.max(longest, i - start + 1);
+        }
+        return longest;
+    }
+}

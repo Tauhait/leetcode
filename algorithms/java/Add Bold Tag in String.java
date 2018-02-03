@@ -1,66 +1,57 @@
-public class Solution {
-    private class Interval implements Comparable<Interval> {
-        private int start;
-        private int end;
-        
-        public Interval(int start, int end) {
-            this.start = start;
-            this.end = end;
+class Solution {
+    private static class Interval implements Comparable<Interval> {
+        private int s;
+        private int e;
+        public Interval(int s, int e) {
+            this.s = s;
+            this.e = e;
         }
-        
         public int compareTo(Interval that) {
-            return this.start - that.start;
+            return this.s - that.s;
         }
     }
     
+    private List<Interval> mergeIntervals(List<Interval> intervals) {
+        if(intervals.size() == 0) return Collections.emptyList();
+        Collections.sort(intervals);   
+        List<Interval> merged = new ArrayList<>();
+        int s = intervals.get(0).s, e = intervals.get(0).e;
+        for(int i = 1;i < intervals.size();++i) {
+            if(intervals.get(i).s <= e + 1) {
+                e = Math.max(e, intervals.get(i).e);
+            } else {
+                merged.add(new Interval(s, e));
+                s = intervals.get(i).s;
+                e = intervals.get(i).e;
+            }
+        }
+        merged.add(new Interval(s, e));
+        return merged;
+    }
+    
     public String addBoldTag(String s, String[] dict) {
-        ArrayList<Interval> arr = new ArrayList<>();
-        for(int i = 0;i < dict.length;++i) {
-            String word = dict[i];
+        List<Interval> intervals = new ArrayList<>();
+        for(String word: dict) {
             int pos = s.indexOf(word);
             while(pos >= 0) {
-                arr.add(new Interval(pos, pos + word.length() - 1));
+                intervals.add(new Interval(pos, pos + word.length() - 1));
                 pos = s.indexOf(word, pos + 1);
             }
         }
-        Collections.sort(arr);
-        if(arr.size() == 0) {
-            return s;
-        }
+        if(intervals.size() == 0) return s;
+        intervals = mergeIntervals(intervals);
         
-        int start = arr.get(0).start;
-        int end = arr.get(0).end;
+        // print result
         StringBuilder sb = new StringBuilder();
-        if(start > 0) {
-            for(int i = 0;i < start;++i) {
-                sb.append(s.charAt(i));
-            }
+        int start = 0;
+        for(int i = 0;i < intervals.size();++i) {
+            sb.append(s.substring(start, intervals.get(i).s));
+            sb.append("<b>")
+                .append(s.substring(intervals.get(i).s, intervals.get(i).e + 1))
+                .append("</b>");
+            start = intervals.get(i).e + 1;
         }
-        sb.append("<b>");
-        for(int i = 1;i < arr.size();++i) {
-            if(arr.get(i).start > end + 1) {
-                for(int j = start;j <= end;++j) {
-                    sb.append(s.charAt(j));
-                }
-                sb.append("</b>");
-                for(int j = end + 1;j < arr.get(i).start;++j) {
-                    sb.append(s.charAt(j));
-                }
-                sb.append("<b>");
-                start = arr.get(i).start;
-                end = arr.get(i).end;
-            } else {
-                end = Math.max(end, arr.get(i).end);
-            }
-        }
-        for(int j = start;j <= end;++j) {
-            sb.append(s.charAt(j));
-        }
-        sb.append("</b>");
-        while(end < s.length() - 1) {
-            sb.append(s.charAt(end + 1));
-            end++;
-        }
+        sb.append(s.substring(start));
         return sb.toString();
     }
 }

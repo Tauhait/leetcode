@@ -30,7 +30,7 @@ if __name__ == '__main__':
     md_file = 'Readme.md'
     f = open(md_file, 'w')
     f.write('### LeetCode Solutions [https://leetcode.com/problemset/algorithms/](https://leetcode.com/problemset/algorithms/)\n\n')
-    f.write('[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4b1151a2ceb949eaa46c000dc040bfd8)](https://www.codacy.com/app/chenhaifeng88888/leetcode?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=acgtun/leetcode&amp;utm_campaign=Badge_Grade)\n\n');
+    #f.write('[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4b1151a2ceb949eaa46c000dc040bfd8)](https://www.codacy.com/app/chenhaifeng88888/leetcode?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=acgtun/leetcode&amp;utm_campaign=Badge_Grade)\n\n');
     f.write('|Problem | C/C++ | Java | Python3 |\n')
     f.write('|:----------|:-------------:|:------:|:------:|\n')
     for problem in problems:
