@@ -156,7 +156,7 @@
 |Flip Game II  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Flip%20Game%20II.cpp) | []() | []()|
 |Fraction Addition and Subtraction  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Fraction%20Addition%20and%20Subtraction.java) | []()|
 |Fraction to Recurring Decimal  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Fraction%20to%20Recurring%20Decimal.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Fraction%20to%20Recurring%20Decimal.java) | []()|
-|Game of Life  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Game%20of%20Life.cpp) | []() | []()|
+|Game of Life  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Game%20of%20Life.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Game%20of%20Life.java) | []()|
 |Gas Station  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Gas%20Station.cpp) | []() | []()|
 |Generate Parentheses  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Generate%20Parentheses.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Generate%20Parentheses.java) | []()|
 |Global and Local Inversions  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Global%20and%20Local%20Inversions.java) | []()|
@@ -184,6 +184,7 @@
 |Integer to English Words  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Integer%20to%20English%20Words.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Integer%20to%20English%20Words.java) | []()|
 |Integer to Roman  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Integer%20to%20Roman.cpp) | []() | []()|
 |Interleaving String  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Interleaving%20String.cpp) | []() | []()|
+|Intersection of Two Arrays  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Intersection%20of%20Two%20Arrays.java) | []()|
 |Intersection of Two Arrays II  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Intersection%20of%20Two%20Arrays%20II.java) | []()|
 |Intersection of Two Linked Lists  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Intersection%20of%20Two%20Linked%20Lists.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Intersection%20of%20Two%20Linked%20Lists.java) | []()|
 |Invert Binary Tree  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Invert%20Binary%20Tree.cpp) | []() | []()|
@@ -299,7 +300,7 @@
 |Number of Islands II  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Number%20of%20Islands%20II.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Number%20of%20Islands%20II.java) | []()|
 |Number of Longest Increasing Subsequence  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Number%20of%20Longest%20Increasing%20Subsequence.java) | []()|
 |Odd Even Linked List  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Odd%20Even%20Linked%20List.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Odd%20Even%20Linked%20List.java) | []()|
-|One Edit Distance  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/One%20Edit%20Distance.cpp) | []() | []()|
+|One Edit Distance  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/One%20Edit%20Distance.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/One%20Edit%20Distance.java) | []()|
 |Open the Lock  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Open%20the%20Lock.java) | []()|
 |Optimal Account Balancing  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Optimal%20Account%20Balancing.java) | []()|
 |Out of Boundary Paths  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Out%20of%20Boundary%20Paths.java) | []()|
