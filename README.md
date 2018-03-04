@@ -96,7 +96,9 @@
 |Course Schedule  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Course%20Schedule.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Course%20Schedule.java) | []()|
 |Course Schedule II  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Course%20Schedule%20II.cpp) | []() | []()|
 |Course Schedule III  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Course%20Schedule%20III.java) | []()|
+|Custom Sort String  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Custom%20Sort%20String.java) | []()|
 |Cut Off Trees for Golf Event  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Cut%20Off%20Trees%20for%20Golf%20Event.java) | []()|
+|Daily Temperatures  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Daily%20Temperatures.java) | []()|
 |Decode Ways  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Decode%20Ways.cpp) | []() | []()|
 |Decode Ways II  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Decode%20Ways%20II.java) | []()|
 |Delete Node in a Linked List  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Delete%20Node%20in%20a%20Linked%20List.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Delete%20Node%20in%20a%20Linked%20List.java) | []()|
@@ -121,6 +123,7 @@
 |Encode and Decode Strings  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Encode%20and%20Decode%20Strings.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Encode%20and%20Decode%20Strings.java) | []()|
 |Encode and Decode TinyURL  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Encode%20and%20Decode%20TinyURL.java) | []()|
 |Erect the Fence  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Erect%20the%20Fence.java) | []()|
+|Escape The Ghosts  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Escape%20The%20Ghosts.java) | []()|
 |Evaluate Reverse Polish Notation  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Evaluate%20Reverse%20Polish%20Notation.cpp) | []() | []()|
 |Excel Sheet Column Number  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Excel%20Sheet%20Column%20Number.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Excel%20Sheet%20Column%20Number.java) | []()|
 |Excel Sheet Column Title  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Excel%20Sheet%20Column%20Title.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Excel%20Sheet%20Column%20Title.java) | []()|
@@ -160,7 +163,7 @@
 |Gas Station  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Gas%20Station.cpp) | []() | []()|
 |Generate Parentheses  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Generate%20Parentheses.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Generate%20Parentheses.java) | []()|
 |Global and Local Inversions  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Global%20and%20Local%20Inversions.java) | []()|
-|Graph Valid Tree  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Graph%20Valid%20Tree.cpp) | []() | []()|
+|Graph Valid Tree  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Graph%20Valid%20Tree.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Graph%20Valid%20Tree.java) | []()|
 |Group Anagrams  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Group%20Anagrams.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Group%20Anagrams.java) | []()|
 |Group Shifted Strings  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Group%20Shifted%20Strings.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Group%20Shifted%20Strings.java) | []()|
 |H-Index  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/H-Index.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/H-Index.java) | []()|
@@ -208,6 +211,7 @@
 |Largest Plus Sign  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Largest%20Plus%20Sign.java) | []()|
 |Largest Rectangle in Histogram  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Largest%20Rectangle%20in%20Histogram.cpp) | []() | []()|
 |Length of Last Word  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Length%20of%20Last%20Word.cpp) | []() | []()|
+|Letter Case Permutation  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Letter%20Case%20Permutation.java) | []()|
 |Letter Combinations of a Phone Number  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Letter%20Combinations%20of%20a%20Phone%20Number.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Letter%20Combinations%20of%20a%20Phone%20Number.java) | []()|
 |License Key Formatting  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/License%20Key%20Formatting.java) | []()|
 |Linked List Cycle  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Linked%20List%20Cycle.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Linked%20List%20Cycle.java) | []()|
@@ -278,6 +282,7 @@
 |Minimum Window Substring  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Minimum%20Window%20Substring.cpp) | []() | []()|
 |Missing Number  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Missing%20Number.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Missing%20Number.java) | []()|
 |Missing Ranges  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Missing%20Ranges.cpp) | []() | []()|
+|Monotone Increasing Digits  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Monotone%20Increasing%20Digits.java) | []()|
 |Move Zeroes  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Move%20Zeroes.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Move%20Zeroes.java) | []()|
 |Moving Average from Data Stream  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Moving%20Average%20from%20Data%20Stream.java) | []()|
 |Multiply Strings  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Multiply%20Strings.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Multiply%20Strings.java) | []()|
@@ -381,6 +386,7 @@
 |Rotate Array  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Rotate%20Array.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Rotate%20Array.java) | []()|
 |Rotate Image  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Rotate%20Image.cpp) | []() | []()|
 |Rotate List  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Rotate%20List.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Rotate%20List.java) | []()|
+|Rotated Digits  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Rotated%20Digits.java) | []()|
 |Russian Doll Envelopes  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Russian%20Doll%20Envelopes.java) | []()|
 |Same Tree  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Same%20Tree.cpp) | []() | []()|
 |Search Insert Position  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Search%20Insert%20Position.cpp) | []() | []()|

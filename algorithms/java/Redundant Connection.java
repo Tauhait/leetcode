@@ -1,3 +1,5 @@
+///////////////////
+// Topological Order
 class Solution {
     private String code(int u, int v) {
         if(u < v) 
@@ -47,3 +49,61 @@ class Solution {
         return new int[2];
     }
 }
+
+
+///////////////////
+// Uinon Find
+public class UnionFind {
+    private void union(int[] parent, int i, int j) {
+        int pj = find(parent, i);
+        int pi = find(parent, j);
+        parent[pi] = pj;
+    }
+
+    private int find(int[] parent, int x) {
+        int t = x;
+        while (x != parent[x]) x = parent[x];
+        int r = x;
+
+        // update parent node for all nodes in the path
+        x = t;
+        while (x != parent[x]) {
+            t = parent[x];
+            parent[x] = r;
+            x = t;
+        }
+        return r;
+    }
+
+
+    public int[] findRedundantConnection(int[][] edges) {
+        if (edges.length == 0) return new int[]{-1, -1};
+
+        int N = 0;
+        for (int i = 0; i < edges.length; ++i) {
+            N = Math.max(N, edges[i][0]);
+            N = Math.max(N, edges[i][1]);
+        }
+        int[] parent = new int[N + 1];
+        for (int i = 1; i <= N; ++i) parent[i] = i;
+
+        for (int i = 0; i < edges.length; ++i) {
+            int f = edges[i][0];
+            int t = edges[i][1];
+            int pf = find(parent, f);
+            int pt = find(parent, t);
+            if (pf == pt) return edges[i];
+            union(parent, f, t);
+        }
+        return edges[edges.length - 1];
+    }
+
+    public static void main(String[] args) {
+        UnionFind uf = new UnionFind();
+        //int[][] edges = new int[][]{{1,2}, {2,3}, {3,4}, {1,4}, {1,5}};
+        int[][] edges = {{1,3},{3,4},{1,5},{3,5},{2,3}};
+        int[] edge = uf.findRedundantConnection(edges);
+        System.out.println(edge[0] + " " + edge[1]);
+    }
+}
+
