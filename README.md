@@ -304,6 +304,8 @@
 |Number of Islands  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Number%20of%20Islands.cpp) | []() | []()|
 |Number of Islands II  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Number%20of%20Islands%20II.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Number%20of%20Islands%20II.java) | []()|
 |Number of Longest Increasing Subsequence  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Number%20of%20Longest%20Increasing%20Subsequence.java) | []()|
+|Number of Matching Subsequences  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Number%20of%20Matching%20Subsequences.java) | []()|
+|Number of Subarrays with Bounded Maximum  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Number%20of%20Subarrays%20with%20Bounded%20Maximum.java) | []()|
 |Odd Even Linked List  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Odd%20Even%20Linked%20List.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Odd%20Even%20Linked%20List.java) | []()|
 |One Edit Distance  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/One%20Edit%20Distance.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/One%20Edit%20Distance.java) | []()|
 |Open the Lock  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Open%20the%20Lock.java) | []()|
@@ -342,6 +344,7 @@
 |Pow(x, n)  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Pow(x,%20n).cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Pow(x,%20n).java) | []()|
 |Power of Three  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Power%20of%20Three.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Power%20of%20Three.java) | []()|
 |Power of Two  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Power%20of%20Two.cpp) | []() | []()|
+|Preimage Size of Factorial Zeroes Function  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Preimage%20Size%20of%20Factorial%20Zeroes%20Function.java) | []()|
 |Prime Number of Set Bits in Binary Representation  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation.java) | []()|
 |Print Binary Tree  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Print%20Binary%20Tree.java) | []()|
 |Product of Array Except Self  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Product%20of%20Array%20Except%20Self.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Product%20of%20Array%20Except%20Self.java) | []()|
@@ -469,6 +472,7 @@
 |Valid Parenthesis String  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Valid%20Parenthesis%20String.java) | []()|
 |Valid Square  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Valid%20Square.java) | []()|
 |Valid Sudoku  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Valid%20Sudoku.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Valid%20Sudoku.java) | []()|
+|Valid Tic-Tac-Toe State  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Valid%20Tic-Tac-Toe%20State.java) | []()|
 |Valid Triangle Number  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Valid%20Triangle%20Number.java) | []()|
 |Validate Binary Search Tree  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Validate%20Binary%20Search%20Tree.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Validate%20Binary%20Search%20Tree.java) | []()|
 |Verify Preorder Serialization of a Binary Tree  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Verify%20Preorder%20Serialization%20of%20a%20Binary%20Tree.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Verify%20Preorder%20Serialization%20of%20a%20Binary%20Tree.java) | []()|
