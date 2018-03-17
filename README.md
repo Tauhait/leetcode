@@ -500,4 +500,3 @@
 |Word Squares  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Word%20Squares.java) | []()|
 |Zigzag Iterator  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Zigzag%20Iterator.cpp) | []() | []()|
 |ceilFloorIndex  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/ceilFloorIndex.java) | []()|
-|hihocoder-1284-机会渺茫  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/hihocoder-1284-机会渺茫.cpp) | []() | []()|
