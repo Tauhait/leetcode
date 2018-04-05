@@ -2,6 +2,7 @@
 
 |Problem | C/C++ | Java | Python3 |
 |:----------|:-------------:|:------:|:------:|
+| New Playgroundhaifengc Unique Morse Code Words  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/%20New%20Playgroundhaifengc%20Unique%20Morse%20Code%20Words.java) | []()|
 |01 Matrix  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/01%20Matrix.java) | []()|
 |1-bit and 2-bit Characters  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/1-bit%20and%202-bit%20Characters.java) | []()|
 |2 Keys Keyboard  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/2%20Keys%20Keyboard.java) | []()|
@@ -132,11 +133,13 @@
 |Excel Sheet Column Title  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Excel%20Sheet%20Column%20Title.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Excel%20Sheet%20Column%20Title.java) | []()|
 |Exclusive Time of Functions  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Exclusive%20Time%20of%20Functions.java) | []()|
 |Expression Add Operators  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Expression%20Add%20Operators.java) | []()|
+|Expressive Words  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Expressive%20Words.java) | []()|
 |Factor Combinations  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Factor%20Combinations.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Factor%20Combinations.java) | []()|
 |Factorial Trailing Zeroes  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Factorial%20Trailing%20Zeroes.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Factorial%20Trailing%20Zeroes.java) | []()|
 |Find Anagram Mappings  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Find%20Anagram%20Mappings.java) | []()|
 |Find Duplicate File in System  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Find%20Duplicate%20File%20in%20System.java) | []()|
 |Find Duplicate Subtrees  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Find%20Duplicate%20Subtrees.java) | []()|
+|Find Eventual Safe States  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Find%20Eventual%20Safe%20States.java) | []()|
 |Find K Closest Elements  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Find%20K%20Closest%20Elements.java) | []()|
 |Find K Pairs with Smallest Sums  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Find%20K%20Pairs%20with%20Smallest%20Sums.java) | []()|
 |Find K-th Smallest Pair Distance  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Find%20K-th%20Smallest%20Pair%20Distance.java) | []()|
@@ -246,6 +249,7 @@
 |Max Chunks To Make Sorted (ver. 1)  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Max%20Chunks%20To%20Make%20Sorted%20(ver.%201).java) | []()|
 |Max Chunks to Make Sorted (ver. 2)  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Max%20Chunks%20to%20Make%20Sorted%20(ver.%202).java) | []()|
 |Max Consecutive Ones II  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Max%20Consecutive%20Ones%20II.java) | []()|
+|Max Increase to Keep City Skyline  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Max%20Increase%20to%20Keep%20City%20Skyline.java) | []()|
 |Max Points on a Line  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Max%20Points%20on%20a%20Line.cpp) | []() | []()|
 |Maximal Rectangle  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Maximal%20Rectangle.cpp) | []() | []()|
 |Maximal Square  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Maximal%20Square.cpp) | []() | []()|
@@ -309,6 +313,7 @@
 |Number of Distinct Islands  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Number%20of%20Distinct%20Islands.java) | []()|
 |Number of Islands  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Number%20of%20Islands.cpp) | []() | []()|
 |Number of Islands II  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Number%20of%20Islands%20II.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Number%20of%20Islands%20II.java) | []()|
+|Number of Lines To Write String  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Number%20of%20Lines%20To%20Write%20String.java) | []()|
 |Number of Longest Increasing Subsequence  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Number%20of%20Longest%20Increasing%20Subsequence.java) | []()|
 |Number of Matching Subsequences  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Number%20of%20Matching%20Subsequences.java) | []()|
 |Number of Subarrays with Bounded Maximum  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Number%20of%20Subarrays%20with%20Bounded%20Maximum.java) | []()|
@@ -418,6 +423,7 @@
 |Shortest Word Distance II  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Shortest%20Word%20Distance%20II.cpp) | []() | []()|
 |Shortest Word Distance III  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Shortest%20Word%20Distance%20III.cpp) | []() | []()|
 |Shuffle an Array  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Shuffle%20an%20Array.java) | []()|
+|Similar RGB Color  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Similar%20RGB%20Color.java) | []()|
 |Simplify Path  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Simplify%20Path.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Simplify%20Path.java) | []()|
 |Single Number  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Single%20Number.java) | [python](https://github.com/acgtun/leetcode/blob/master/algorithms/python/Single%20Number.py)|
 |Single Number II  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Single%20Number%20II.cpp) | []() | []()|
@@ -430,6 +436,7 @@
 |Sort Colors  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Sort%20Colors.cpp) | []() | []()|
 |Sort List  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Sort%20List.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Sort%20List.java) | []()|
 |Sort Transformed Array  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Sort%20Transformed%20Array.java) | []()|
+|Soup Servings  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Soup%20Servings.java) | []()|
 |Spiral Matrix  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Spiral%20Matrix.cpp) | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Spiral%20Matrix.java) | []()|
 |Spiral Matrix II  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Spiral%20Matrix%20II.cpp) | []() | []()|
 |Split Array into Consecutive Subsequences  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Split%20Array%20into%20Consecutive%20Subsequences.java) | []()|
@@ -441,6 +448,7 @@
 |Strobogrammatic Number II  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Strobogrammatic%20Number%20II.cpp) | []() | []()|
 |Student Attendance Record II  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Student%20Attendance%20Record%20II.java) | []()|
 |Subarray Sum Equals K  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Subarray%20Sum%20Equals%20K.java) | []()|
+|Subdomain Visit Count  | []() | [java](https://github.com/acgtun/leetcode/blob/master/algorithms/java/Subdomain%20Visit%20Count.java) | []()|
 |Subsets  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Subsets.cpp) | []() | []()|
 |Subsets II  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Subsets%20II.cpp) | []() | []()|
 |Substring with Concatenation of All Words  | [cpp](https://github.com/acgtun/leetcode/blob/master/algorithms/cpp/Substring%20with%20Concatenation%20of%20All%20Words.cpp) | []() | []()|
